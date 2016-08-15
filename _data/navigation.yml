@@ -1,7 +1,16 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "Layout"
+    url: https://mrhigham.github.io/layout.html
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Call to action"
+    url: https://mrhigham.github.io/call-to-action.html
+
+
+
+patterns:
+  - title: "Layout"
+    url: /layout.html
+
+  - title: "Call to action"
+    url: /call-to-action.html
