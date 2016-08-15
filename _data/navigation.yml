@@ -7,10 +7,13 @@ main:
     url: https://mrhigham.github.io/call-to-action.html
 
 
-
-patterns:
-  - title: "Layout"
-    url: /layout.html
-
-  - title: "Call to action"
-    url: /call-to-action.html
+site:
+  - title: "Principles"
+    url: /principles
+  - title: "Patters"
+    url: /patterns
+    children:
+    - title: "Layout"
+      url: /layout
+    - title: "Call to action"
+      url: /call-to-action

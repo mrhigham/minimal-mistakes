@@ -1,11 +1,9 @@
 ---
 title: "Layout"
-layout: single
+# layout: single
 excerpt: "Layout guidelines for digital outputs."
-sitemap: false
+# sitemap: false
 permalink: /layout.html
-sidebar:
-  nav: patterns
 ---
 
 ## Natural Mapping

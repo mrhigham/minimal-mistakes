@@ -47,6 +47,17 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "single"
+      sitemap: false
+      sidebar:
+        nav: site
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
