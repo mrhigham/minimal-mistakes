@@ -5,7 +5,7 @@ excerpt: "Use obvious and consistent calls to action to inform users on how to u
 sitemap: false
 permalink: /call-to-action.html
 sidebar:
-	nav: patterns
+  nav: patterns
 ---
 
 Ensure there is always a clear call-to-action on content. If the content is video, there should be a play button/link clearly visible and associated with the image/tile depicting it.

@@ -5,7 +5,7 @@ excerpt: "Layout guidelines for digital outputs."
 sitemap: false
 permalink: /layout.html
 sidebar:
-	nav: patterns
+  nav: patterns
 ---
 
 ## Natural Mapping
