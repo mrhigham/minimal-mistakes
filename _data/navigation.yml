@@ -7,9 +7,9 @@ main:
     url: https://mrhigham.github.io/call-to-action.html
 
 
-site:
-  {% include nav_list nav="principles" %}
-  {% include nav_list nav="patterns" %}
+#site:
+#  {% include nav_list nav="principles" %}
+#  {% include nav_list nav="patterns" %}
 
 principles:
   - title: "Principles"
