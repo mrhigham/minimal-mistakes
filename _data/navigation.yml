@@ -7,9 +7,27 @@ main:
     url: https://mrhigham.github.io/call-to-action.html
 
 
-#site:
-#  {% include nav_list nav="principles" %}
-#  {% include nav_list nav="patterns" %}
+site:
+  - title: "Principles"
+    url: /principles
+    children:
+
+    - title: "Classification"
+      url: /principles/classification
+
+    - title: "Content"
+      url: /principles/content
+
+  - title: "Patterns"
+    url: /patterns
+    children:
+
+    - title: "Layout"
+      url: /patterns/layout
+
+    - title: "Call to action"
+      url: /patterns/call-to-action
+
 
 principles:
   - title: "Principles"
@@ -21,6 +39,7 @@ principles:
 
     - title: "Content"
       url: /principles/content
+
 
 patterns:
   - title: "Patterns"

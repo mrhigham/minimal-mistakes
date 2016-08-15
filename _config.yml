@@ -56,7 +56,7 @@ defaults:
       layout: "single"
       sitemap: false
       sidebar:
-        nav: site
+        nav: "site"
 
 # SEO Related
 google_site_verification :
