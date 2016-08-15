@@ -8,12 +8,27 @@ main:
 
 
 site:
+  {% include nav_list nav="principles" %}
+  {% include nav_list nav="patterns" %}
+
+principles:
   - title: "Principles"
     url: /principles
-  - title: "Patters"
+    children:
+
+    - title: "Classification"
+      url: /principles/classification
+
+    - title: "Content"
+      url: /principles/content
+
+patterns:
+  - title: "Patterns"
     url: /patterns
     children:
+
     - title: "Layout"
-      url: /layout
+      url: /patterns/layout
+
     - title: "Call to action"
-      url: /call-to-action
+      url: /patterns/call-to-action

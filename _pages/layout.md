@@ -1,8 +1,6 @@
 ---
 title: "Layout"
-# layout: single
 excerpt: "Layout guidelines for digital outputs."
-# sitemap: false
 permalink: /layout.html
 ---
 
