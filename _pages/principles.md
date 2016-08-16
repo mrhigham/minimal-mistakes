@@ -1,7 +1,7 @@
 ---
 title: "Principles"
 excerpt: "Principles."
-permalink: /principles.html
+permalink: /principles
 ---
 
 A best practice set of common standards and guidelines to use in the development of screen interactives.

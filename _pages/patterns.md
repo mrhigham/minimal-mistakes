@@ -1,7 +1,7 @@
 ---
 title: "Patterns"
 excerpt: "Patterns."
-permalink: /patterns.html
+permalink: /patterns
 ---
 
 Concrete, reusable design patterns.
