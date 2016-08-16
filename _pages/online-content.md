@@ -13,22 +13,19 @@ Create a short URL which redirects to the content’s location. Things to consid
 
 Example of referring to an interactive’s specific content:
 
-```__Watch these videos online at tepapa.govt.nz/anzac-prints__```
+__Watch these videos online at tepapa.govt.nz/anzac-prints__
 
 
 Google Analytics parameters should be added to the destination URL, example:
 
-```__http://www.tepapa.govt.nz/visit/whats-on/exhibitions/nga-toi-arts/anzac-print-gallery?utm_source=APG&utm_medium=interactive&utm_campaign=APG__```
+__http://www.tepapa.govt.nz/visit/whats-on/exhibitions/nga-toi-arts/anzac-print-gallery?utm_source=APG&utm_medium=interactive&utm_campaign=APG__
 
 
 Use the parameters as follows:
 
-* `Source`
-  * Type of source, eg `museum-exhibit`
-* `Medium`
-  * ?   
-* `Campaign`
-  * Exhibition identifier, eg `anzac-print-gallery`
+* `utm_source=` Where was the message that the user read? Was it for an interactive? Or on signage inside the museum? (For example, `museum-exhibit`)
+* `Medium` 
+* `Campaign` Identify the exhibition involved, if any (for example, `anzac-print-gallery`)
 
 
 Consider the user journey:
