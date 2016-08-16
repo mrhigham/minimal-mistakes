@@ -24,13 +24,14 @@ __http://www.tepapa.govt.nz/visit/whats-on/exhibitions/nga-toi-arts/anzac-print-
 Use the parameters as follows:
 
 * `utm_source=` Where was the message that the user read? Was it for an interactive? Or on signage inside the museum? (For example, `museum-exhibit`)
-* `Medium` 
-* `Campaign` Identify the exhibition involved, if any (for example, `anzac-print-gallery`)
+* `utm_medium=` 
+* `utm_campaign=` Identify the exhibition involved, if any (for example, `anzac-print-gallery`)
 
 
-Consider the user journey:
+__Consider the user journey your visitor will take:__
 
 * Where will the user land from this URL?
 * Is it immediately obvious how it is linked to where they saw the URL?
 * Is all relevant content grouped/related/easy to find from here?
 * Will it date well or will this page become redundant before the exhibition is over?
+{: .notice--info}
