@@ -1,7 +1,7 @@
 ---
 title: "Layout"
 excerpt: "Layout guidelines for digital outputs."
-permalink: /layout.html
+permalink: /patterns/layout.html
 ---
 
 ## Natural Mapping
