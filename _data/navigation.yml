@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Layout"
-    url: https://mrhigham.github.io/layout.html
+  - title: "Principles"
+    url: https://mrhigham.github.io/principles
 
-  - title: "Call to action"
-    url: https://mrhigham.github.io/call-to-action.html
+  - title: "Patterns"
+    url: https://mrhigham.github.io/patterns
 
 
 site:
@@ -18,15 +18,24 @@ site:
     - title: "Content"
       url: /principles/content
 
+    - title: "Analytics"
+      url: /principles/analytics
+
   - title: "Patterns"
     url: /patterns
     children:
-
+      
     - title: "Layout"
       url: /patterns/layout
 
     - title: "Call to action"
       url: /patterns/call-to-action
+
+    - title: "Online content"
+      url: /patterns/online-content
+
+    - title: "Icons"
+      url: /patterns/icons
 
 
 principles:
@@ -40,14 +49,23 @@ principles:
     - title: "Content"
       url: /principles/content
 
+    - title: "Analytics"
+      url: /principles/analytics
+
 
 patterns:
   - title: "Patterns"
     url: /patterns
     children:
-
+      
     - title: "Layout"
       url: /patterns/layout
 
     - title: "Call to action"
       url: /patterns/call-to-action
+
+    - title: "Online content"
+      url: /patterns/online-content
+
+    - title: "Icons"
+      url: /patterns/icons
