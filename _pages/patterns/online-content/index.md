@@ -1,7 +1,6 @@
 ---
 title: "Online content"
 excerpt: "Referencing online content from within the museum."
-permalink: /patterns/online-content
 ---
 
 Create a short URL which redirects to the content’s location. Things to consider with the URL:
@@ -28,10 +27,5 @@ Use the parameters as follows:
 * `utm_campaign=` Identify the exhibition involved, if any (for example, `anzac-print-gallery`)
 
 
-__Consider the user journey your visitor will take:__
-
-* Where will the user land from this URL?
-* Is it immediately obvious how it is linked to where they saw the URL?
-* Is all relevant content grouped/related/easy to find from here?
-* Will it date well or will this page become redundant before the exhibition is over?
+__Consider the user journey your visitor will take.__ Where will they land from this URL? Is it immediately obvious how it is linked to where they saw the URL? Is all relevant content grouped/related/easy to find from here? Will it date well or will this page become redundant before the exhibition is over?
 {: .notice--info}

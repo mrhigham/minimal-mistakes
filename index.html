@@ -1,14 +1,12 @@
 ---
+title: Digital Language System
 layout: archive
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<p>Our Digital Language System (or DLS) allows us to create and maintain a shared language of concepts and patterns to inform the design and development of our digital properties. It will help us to create consistent user experiences for our audience inside and outside the walls of our museum.</p>
+<p>The DLS will grow and adapt over time to cover more of what we do.</p>
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
+{% include nav_list nav="site" %}

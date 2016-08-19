@@ -1,71 +1,72 @@
 # main links links
 main:
   - title: "Principles"
-    url: https://mrhigham.github.io/principles
+    url: /_pages/principles
 
   - title: "Patterns"
-    url: https://mrhigham.github.io/patterns
+    url: /_pages/patterns
 
 
 site:
   - title: "Principles"
-    url: /principles
+    url: /_pages/principles
     children:
 
     - title: "Classification"
-      url: /principles/classification
+      url: /_pages/principles/classification
 
     - title: "Content"
-      url: /principles/content
+      url: /_pages/principles/content
 
     - title: "Analytics"
-      url: /principles/analytics
+      url: /_pages/principles/analytics
 
   - title: "Patterns"
-    url: /patterns
+    url: /_pages/patterns
     children:
-      
+
     - title: "Layout"
-      url: /patterns/layout
+      url: /_pages/patterns/layout
 
     - title: "Call to action"
-      url: /patterns/call-to-action
+      url: /_pages/patterns/call-to-action
 
     - title: "Online content"
-      url: /patterns/online-content
+      url: /_pages/patterns/online-content
 
     - title: "Icons"
-      url: /patterns/icons
+      url: /_pages/patterns/icons
 
 
+################################################################################
+# Currently very flaky duplication going on here.. be warned.
+################################################################################
 principles:
   - title: "Principles"
-    url: /principles
+    url: /_pages/principles
     children:
-
+      
     - title: "Classification"
-      url: /principles/classification
+      url: /_pages/principles/classification
 
     - title: "Content"
-      url: /principles/content
+      url: /_pages/principles/content
 
     - title: "Analytics"
-      url: /principles/analytics
-
+      url: /_pages/principles/analytics
 
 patterns:
   - title: "Patterns"
-    url: /patterns
+    url: /_pages/patterns
     children:
-      
-    - title: "Layout"
-      url: /patterns/layout
+      - title: "Layout"
+        url: /_pages/patterns/layout
 
-    - title: "Call to action"
-      url: /patterns/call-to-action
+      - title: "Call to action"
+        url: /_pages/patterns/call-to-action
 
-    - title: "Online content"
-      url: /patterns/online-content
+      - title: "Online content"
+        url: /_pages/patterns/online-content
 
-    - title: "Icons"
-      url: /patterns/icons
+      - title: "Icons"
+        url: /_pages/patterns/icons
