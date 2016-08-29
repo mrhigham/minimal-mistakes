@@ -3,6 +3,8 @@ title: "Classification"
 excerpt: "Using a common language to describe our interactive media will help us communicate more effectively."
 ---
 
+Different classes of interactives present different requirements. These categories cover broad requirements and highlight key differences that might be considered during scoping and development stages.
+
 ## Video player (single or multi-video)
 
 * Particularly low-level of engagement is required. Ideally users should be able to select video content within one touch.

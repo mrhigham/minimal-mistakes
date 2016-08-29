@@ -234,11 +234,13 @@ figure {
 
 /* Figure captions */
 
+.figcaption,
 figcaption {
   margin-bottom: 0.5em;
   color: mix(#fff, $text-color, 25%);
-  font-family: $caption-font-family;
-  font-size: $type-size-6;
+  // font-family: $caption-font-family;
+  font-size: $type-size-6 !important;
+  font-style: italic;
 
   a {
     color: inherit;

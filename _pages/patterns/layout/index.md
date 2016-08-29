@@ -8,7 +8,8 @@ Where possible, represent the digital content in response to the layout of its r
 
 ![Natural mapping example](/images/mapping-stoves.png)
 
-_Figure: The stove top on the left is not using natural mapping; there is no obvious relationship between the controls and the burners. The stove top on the right utilises the natural mapping principle: the relationship between each control and burner is obvious and requires no written instruction or ‘trial-and-error’ approach from the user._
+Figure: The stove top on the left is not using natural mapping; there is no obvious relationship between the controls and the burners. The stove top on the right utilises the natural mapping principle: the relationship between each control and burner is obvious and requires no written instruction or ‘trial-and-error’ approach from the user.
+{: .figcaption}
 
 **Note:** A [skeuomorphic result](https://en.wikipedia.org/wiki/Skeuomorph) is not the intention, but to make the interface intuitive and obvious so the user doesn’t have to “learn” the interface.
 {: .notice--warning}

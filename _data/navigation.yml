@@ -1,41 +1,44 @@
 # main links links
 main:
   - title: "Principles"
-    url: /_pages/principles
+    url: /_pages/principles/
 
   - title: "Patterns"
-    url: /_pages/patterns
+    url: /_pages/patterns/
 
 
 site:
   - title: "Principles"
-    url: /_pages/principles
+    url: /_pages/principles/
     children:
 
     - title: "Classification"
-      url: /_pages/principles/classification
+      url: /_pages/principles/classification/
 
     - title: "Content"
-      url: /_pages/principles/content
+      url: /_pages/principles/content/
 
     - title: "Analytics"
-      url: /_pages/principles/analytics
+      url: /_pages/principles/analytics/
 
   - title: "Patterns"
-    url: /_pages/patterns
+    url: /_pages/patterns/
     children:
 
     - title: "Layout"
-      url: /_pages/patterns/layout
+      url: /_pages/patterns/layout/
 
     - title: "Call to action"
-      url: /_pages/patterns/call-to-action
+      url: /_pages/patterns/call-to-action/
 
     - title: "Online content"
-      url: /_pages/patterns/online-content
+      url: /_pages/patterns/online-content/
+
+    - title: "Accessibility"
+      url: /_pages/patterns/accessibility/
 
     - title: "Icons"
-      url: /_pages/patterns/icons
+      url: /_pages/patterns/icons/
 
 
 ################################################################################
@@ -43,30 +46,30 @@ site:
 ################################################################################
 principles:
   - title: "Principles"
-    url: /_pages/principles
+    url: /_pages/principles/
     children:
       
     - title: "Classification"
-      url: /_pages/principles/classification
+      url: /_pages/principles/classification/
 
     - title: "Content"
-      url: /_pages/principles/content
+      url: /_pages/principles/content/
 
     - title: "Analytics"
-      url: /_pages/principles/analytics
+      url: /_pages/principles/analytics/
 
 patterns:
   - title: "Patterns"
-    url: /_pages/patterns
+    url: /_pages/patterns/
     children:
       - title: "Layout"
-        url: /_pages/patterns/layout
+        url: /_pages/patterns/layout/
 
       - title: "Call to action"
-        url: /_pages/patterns/call-to-action
+        url: /_pages/patterns/call-to-action/
 
       - title: "Online content"
-        url: /_pages/patterns/online-content
+        url: /_pages/patterns/online-content/
 
       - title: "Icons"
-        url: /_pages/patterns/icons
+        url: /_pages/patterns/icons/
