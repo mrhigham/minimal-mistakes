@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "Digital Language System"
-title_separator          : "|"
+title_separator          : "–"
 name                     : "Sixtyproof"
 description              : "Guidelines and principles for Te Papa's digital outputs."
 dev_mode                 : true

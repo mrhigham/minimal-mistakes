@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Foundations"
+    url: /_pages/foundations/
+
   - title: "Principles"
     url: /_pages/principles/
 
@@ -8,34 +11,50 @@ main:
 
 
 site:
+  - title: "Foundations"
+    url: /_pages/foundations/
+    children:
+
+      - title: "Classification"
+        url: /_pages/foundations/classification/
+
+      - title: "Accessibility"
+        url: /_pages/foundations/accessibility/
+
+      - title: "Analytics"
+        url: /_pages/foundations/analytics/
+      
+      - title: "Context"
+        url: /_pages/foundations/context/
+
+      - title: "Content"
+        url: /_pages/foundations/content/
+
   - title: "Principles"
     url: /_pages/principles/
     children:
+      
+      - title: "Navigation"
+        url: /_pages/principles/navigation/
 
-    - title: "Classification"
-      url: /_pages/principles/classification/
+      - title: "Layout"
+        url: /_pages/principles/layout/
 
-    - title: "Content"
-      url: /_pages/principles/content/
-
-    - title: "Analytics"
-      url: /_pages/principles/analytics/
+      - title: "Call-to-action"
+        url: /_pages/principles/call-to-action/
 
   - title: "Patterns"
     url: /_pages/patterns/
     children:
-
-    - title: "Layout"
-      url: /_pages/patterns/layout/
-
-    - title: "Call to action"
-      url: /_pages/patterns/call-to-action/
+    
+    - title: "Video"
+      url: /_pages/patterns/video/
+    
+    - title: "Digital labels"
+      url: /_pages/patterns/digital-labels/
 
     - title: "Online content"
       url: /_pages/patterns/online-content/
-
-    - title: "Accessibility"
-      url: /_pages/patterns/accessibility/
 
     - title: "Icons"
       url: /_pages/patterns/icons/
@@ -44,32 +63,41 @@ site:
 ################################################################################
 # Currently very flaky duplication going on here.. be warned.
 ################################################################################
+foundations:
+  - title: "Classification"
+    url: /_pages/foundations/classification/
+
+  - title: "Accessibility"
+    url: /_pages/foundations/accessibility/
+
+  - title: "Analytics"
+    url: /_pages/foundations/analytics/
+  
+  - title: "Context"
+    url: /_pages/foundations/context/
+
+  - title: "Content"
+    url: /_pages/foundations/content/
+
 principles:
-  - title: "Principles"
-    url: /_pages/principles/
-    children:
-      
-    - title: "Classification"
-      url: /_pages/principles/classification/
+  - title: "Navigation"
+    url: /_pages/principles/navigation/
 
-    - title: "Content"
-      url: /_pages/principles/content/
+  - title: "Natural mapping"
+    url: /_pages/principles/natural-mapping/
 
-    - title: "Analytics"
-      url: /_pages/principles/analytics/
+  - title: "Call-to-action"
+    url: /_pages/principles/call-to-action/ 
 
 patterns:
-  - title: "Patterns"
-    url: /_pages/patterns/
-    children:
-      - title: "Layout"
-        url: /_pages/patterns/layout/
+  - title: "Video"
+    url: /_pages/patterns/video/
+  
+  - title: "Digital labels"
+    url: /_pages/patterns/digital-labels/
 
-      - title: "Call to action"
-        url: /_pages/patterns/call-to-action/
+  - title: "Online content"
+    url: /_pages/patterns/online-content/
 
-      - title: "Online content"
-        url: /_pages/patterns/online-content/
-
-      - title: "Icons"
-        url: /_pages/patterns/icons/
+  - title: "Icons"
+    url: /_pages/patterns/icons/

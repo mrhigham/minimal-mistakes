@@ -63,7 +63,7 @@ $(document).ready(function(){
   $("a").smoothScroll({offset: -20});
 
   // add lightbox class to all image links
-  $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
+  // $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
 
   // Magnific-Popup options
   $(".image-popup").magnificPopup({

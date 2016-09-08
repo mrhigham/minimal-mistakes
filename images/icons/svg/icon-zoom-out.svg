@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-zoom-out</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="8.622 7.9998 8.622 0.09405 0.71655 0.09405 0.71655 7.9998 8.622 7.9998"></polygon>
+    </defs>
+    <g id="site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-zoom-out">
+            <g id="Page-1" transform="translate(1.000000, 1.000000)">
+                <path d="M17.25,8.75 C17.25,13.444 13.444,17.25 8.75,17.25 C4.056,17.25 0.25,13.444 0.25,8.75 C0.25,4.056 4.056,0.25 8.75,0.25 C13.444,0.25 17.25,4.056 17.25,8.75" id="Fill-1" fill="#FFFFFF"></path>
+                <path d="M17.25,8.75 C17.25,13.444 13.444,17.25 8.75,17.25 C4.056,17.25 0.25,13.444 0.25,8.75 C0.25,4.056 4.056,0.25 8.75,0.25 C13.444,0.25 17.25,4.056 17.25,8.75 L17.25,8.75 Z" id="Stroke-3" stroke="#231F1F" stroke-width="2.5"></path>
+                <g id="Group-7" transform="translate(13.000000, 13.641400)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-6"></g>
+                    <path d="M6.5528,7.8243 L0.8928,2.1643 C0.6578,1.9293 0.6578,1.5503 0.8928,1.3153 L1.9378,0.2703 C2.1718,0.0353 2.5518,0.0353 2.7858,0.2703 L8.4468,5.9303 C8.6808,6.1643 8.6808,6.5443 8.4468,6.7793 L7.4018,7.8243 C7.1668,8.0583 6.7868,8.0583 6.5528,7.8243" id="Fill-5" fill="#231F1F" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M11.8996,9.9998 L5.5996,9.9998 C5.2686,9.9998 4.9996,9.7308 4.9996,9.3998 L4.9996,8.0998 C4.9996,7.7688 5.2686,7.4998 5.5996,7.4998 L11.8996,7.4998 C12.2306,7.4998 12.4996,7.7688 12.4996,8.0998 L12.4996,9.3998 C12.4996,9.7308 12.2306,9.9998 11.8996,9.9998" id="Fill-8" fill="#231F1F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

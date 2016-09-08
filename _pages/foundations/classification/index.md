@@ -1,17 +1,18 @@
 ---
 title: "Classification"
-excerpt: "Using a common language to describe our interactive media will help us communicate more effectively."
+excerpt: "Using a common language to describe our interactives will help us communicate more effectively."
 ---
+
+{% include toc title="Interactives" %}
 
 Different classes of interactives present different requirements. These categories cover broad requirements and highlight key differences that might be considered during scoping and development stages.
 
-## Video player (single or multi-video)
+## Video player
 
 * Particularly low-level of engagement is required. Ideally users should be able to select video content within one touch.
 * This is a ‘serve’ experience. The primary question posed to the user is ‘Would you like to watch a video?’ not ‘What would you like to learn?’ Avoid creating a ‘surf’ experience where the user is expected to explore and rummage for content like on a website. Leave that type of experience for outside of the exhibition space. The screen should be considered an object within the exhibition space and curated and edited accordingly.
 
 __‘Threat of volume’:__ Consider how audio could adversely affect the exhibition space, particularly quiet, sombre, or reflective spaces and ways to mitigate it (move screen to a more lively and noisy area, or provide headphones).
-one
 {: .notice--warning}
 
 __Examples:__ ‘Artists at Work: Richard Stratton’ on Level 6 of _Nga Toi: Arts Te Papa_.
@@ -27,7 +28,6 @@ __Examples:__ ‘Artists at Work: Richard Stratton’ on Level 6 of _Nga Toi: Ar
   * How do the objects display on the screen clearly?
   * Is it clear when looking at the object that more information about it is present if desired?
 
-
 __Example:__ The two ‘Arrivals’ digital label kiosks in _Blood Earth Fire_.
 {: .notice--info}
 
@@ -40,8 +40,7 @@ __Example:__ The two ‘Arrivals’ digital label kiosks in _Blood Earth Fire_.
   * On EOL: “Must stand alone as a mini-experience (as if this was the only label the visitor might read in the exhibition), yet avoid annoying level of repetition.”
   * On UGS: “Treatment of a topic that requires a predominantly pictorial or graphic approach to aid interpretation (eg, processes, timelines, maps) [...] Selective use only, not a dumping ground for leftover ideas, stories, or images.”
 
-
-## Complex, bespoke interactive
+## Unique digital solution
 
 * Unique set of requirements
 * Games / unique content that doesn’t fit one of the other templates
