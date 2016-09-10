@@ -4,7 +4,7 @@ excerpt: "Collecting data on the use of interactives is a requirement and will e
 ---
 
 More stringent documentation on analytics will be written as these are implemented, tested and revised in the near future. In the meantime, use the following as a guide of what data might be tracked and how it could be used.
-{: .notice--warning}
+{: .notice--warning .m0-imp}
 
 ### Examples of metrics to be recorded:
 

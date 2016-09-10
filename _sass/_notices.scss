@@ -11,7 +11,9 @@
  */
 
 @mixin notice($notice-color) {
-  margin: 2em 0 !important;  /* override*/
+  margin: 2em 0;
+  .page__content & { margin: 2em 0;  /* override*/ }
+  
   padding: 1em;
   font-family: $global-font-family;
 //  font-size: $type-size-6 !important;
