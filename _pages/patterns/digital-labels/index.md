@@ -3,6 +3,9 @@ title: "Digital labels"
 excerpt: "Patterns for digital labels."
 ---
 
+EDITS / IMAGES REQUIRED
+{: .notice--danger}
+
 ## Uniform title
 
 Ensure the same title for an object is used in all of the places it is referred to. For example:
