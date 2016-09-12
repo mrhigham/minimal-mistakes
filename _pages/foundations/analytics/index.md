@@ -20,14 +20,35 @@ More stringent documentation on analytics will be written as these are implement
 
 ### Examples of what we could learn from these analytics:
 
-* Usage of interactives
+* __Usage__ of interactives
     * What is popular? What isn’t?
     * Do certain areas of the museum perform above or below average? Does moving them improve the engagement?
-* Trends of exiting interactives
+* Trends of __exiting__ interactives
     * Do users exit interactives at predictable points (eg, when first seeing the menu)?
-* Which features to support
+* Which __features__ to support
     * Subtitles – we can learn which languages get used the most to and focus efforts on them
     * Social sharing – which platforms should we support and which ones don’t get used
     * Accessibility menu – is it discoverable and usable?
-* Which design patterns promote interaction and which don’t
+* Which __design patterns__ promote interaction and which don’t
     * For example, comparing two design patterns over time with A/B testing to see which gets the best engagement
+
+
+<div class="well mxl">
+<h3 id="things-to-keep-in-mind-when-using-analytics">Things to keep in mind when using analytics</h3>
+
+<ul>
+  <li><strong>Be wary of confirmation bias.</strong> Be sure you aren’t just confirming what you want to see. Don’t stretch analytics beyond what they are really telling you. For example:
+    <ul>
+      <li>More click-throughs but a higher abandonment rate is not better</li>
+      <li>Increase in ‘clicks’ but decreased time spent on content is not better (eg, users are just ‘playing with the technology’ not engaging with the content)</li>
+    </ul>
+  </li>
+  <li><strong>Remember what analytics can and can’t measure.</strong> Many of the factors we want to track are impossible to do so with just analytics. For example:
+    <ul>
+      <li>Did they actually watch the video, or did they just press the <code class="highlighter-rouge">Play</code>button?</li>
+      <li>Did they enjoy this article? Did they care? Did they understand it? Were they moved by it?</li>
+    </ul>
+  </li>
+  <li><strong>Supplement analytics with other research.</strong> Use the analytics in tandem with other research, such as observations, surveys and more sophisticated visitor tracking solutions.</li>
+</ul>
+</div>

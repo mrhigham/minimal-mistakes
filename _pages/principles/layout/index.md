@@ -26,14 +26,17 @@ One of the four menu screens from the _Anzac Print Gallery_ interactive, demonst
 
 Avoid the tendency to explain your interface.
 
-> __Don’t do this:__ Touch the screen to play the video
+> __Don’t do this:__ `Touch the screen to play the video`
 
 Avoid instructions like this by creating a clear call-to-action. If an element on the screen is interactive, it should signal that it is interactive by way of colour, icon and style.
 
-* __Next / Previous:__ Use the titles of the next and previous objects if possible.
-* __Toggle:__ If an action has only two states possible (such as two languages available), it can be simpler to put the alternative option on screen as a way to toggle with the interface.
-    * For example, if English and Te reo Māori are available on an interface and English is currently displayed, using `Language options` would not tell a user which other language optoins are available. A user would required to press `Language options` to then see that Te reo Māori is available. Alternatively, displaying `Te reo Māori` as an interactive element would signal to a user that they can switch the language to this if they choose. (Note: If the screens do not have a substantial amount of English present, this tactic could be too confusing. An alternative approach would be to use the label `Switch to Te reo Māori`.)
+#### Tips on avoiding instructional text
+
+* __Next / Previous:__ Use the titles of the next and previous objects as labels, rather than obscure `Next` and `Previous`.
 * __Touch here to...:__ Always avoid this. Don’t talk about the interface or how to use it, but instead use active words for labels that describe what will happen (eg `Play` or `Read more` or `Share on Facebook`).
+* __Toggle:__ If an action has only two possible choices (such as two languages), it can be simpler to put either both options, or just the alternative option, on screen to provide a way to toggle between choices. In other words, avoid obscure labels like `Language settings`. This doesn’t tell the user which languages are available. Possible alternatives include:
+    * Show two actions such as `English / Te Reo Māori` and highlight the currently active language.
+    * If there is ample amount of text onscreen, show the alternative language choice only (eg, if English is currently active, provide an action `Te Reo Māori` or `Switch to Te Reo Māori`).
 
 ![Hotspot labels](/images/hotspot.png)
 

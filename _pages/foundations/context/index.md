@@ -24,7 +24,7 @@ EDITS REQUIRED
 
 ## ‘Threat of volume’
 
-Is this interactive in a particularly quiet space of the museum? If so, it is possible that some visitors will be more reluctant to engage with it if they are concerned that it could interrupt an otherwise quiet environment.
+Is this interactive in a particularly quiet space of the museum? If so, it is possible that some visitors will be more reluctant to engage with it if they are concerned that it could interrupt the quiet environment.
 
 ‘Threat of volume’ refers to this tendency for some visitors to hesitate using an interactive because of the sound it might emit. If an interactive is placed within a particularly quiet environment, consider using headphones to mitigate this risk. Alternatively, consider a less subdued location to position the interactive.
 {: .notice--info}

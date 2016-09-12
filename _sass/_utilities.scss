@@ -374,6 +374,10 @@ body:hover .visually-hidden button {
   border: 1px solid #e3e3e3;
   border-radius: $border-radius;
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+
+  & *:first-child {
+    margin-top: 0;
+  }
 }
 
 

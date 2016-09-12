@@ -34,6 +34,9 @@ site:
     url: /_pages/principles/
     children:
       
+      - title: "*Screensaver"
+        url: /_pages/principles/screensaver/
+
       - title: "**Navigation"
         url: /_pages/principles/navigation/
 
