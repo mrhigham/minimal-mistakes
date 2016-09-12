@@ -6,18 +6,12 @@ excerpt: "Patterns for digital labels."
 EDITS / IMAGES REQUIRED
 {: .notice--danger}
 
-## Uniform title
+## Wireframe overview
 
-Ensure the same title for an object is used in all of the places it is referred to. For example:
+![Digital labels wireframe](/images/digital-label-wireframe.png)
 
-* The physical object label positioned by an object
-* The title of the digital content on the menu selection screen
-* The article of the digital content
-
-## Simple template
-
-* __Menu screen__
-* __Detail screen__
+Wireframe showing basic interaction for a digital label: menu screen and detail screen.
+{: .figcaption}
 
 ### Menu screen
 
@@ -31,4 +25,15 @@ Actions available:
 * Title
 * Image
 * Body content (text, images, video)
-* 
+* Lateral navigation (next and previous articles)
+
+## Uniform title
+
+Ensure the same title for an object is used in all of the places it is referred to. For example:
+
+* The __physical object label__ positioned by an object
+* The title of the digital content on the __menu selection__ screen
+* The title of __the article__ itself
+
+[Insert image demonstrating this]
+{: .notice--warning}
