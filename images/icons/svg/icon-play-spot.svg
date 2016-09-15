@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-play-spot</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-play-spot">
+            <g id="ico-big-play-copy">
+                <circle id="Combined-Shape" fill-opacity="0.75" fill="#000000" cx="24.9592679" cy="24.9592679" r="24.9592679"></circle>
+                <path d="M19.6554234,13.8862414 C19.6554234,13.3305345 20.0174932,13.1432814 20.4784318,13.4783986 L35.4286204,24.3476669 C35.8831554,24.6781285 35.8895591,25.2092569 35.4286204,25.5443741 L20.4784318,36.4136424 C20.0238969,36.7441039 19.6554234,36.5514768 19.6554234,36.0057996 L19.6554234,13.8862414 Z" id="Rectangle-116" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

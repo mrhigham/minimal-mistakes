@@ -3,9 +3,6 @@ title: "Screensaver"
 excerpt: "The screensaver plays a significant role for an interactive. Also known as an ‘attractor loop’, it must be compelling enough that a visitor chooses to interact with it."
 ---
 
-EDITS REQUIRED
-{: .notice--danger}
-
 From a user perspective, a screensaver should accomplish three things for an interactive screen:
 
 1. __Make its presence known.__ Users must first, obviously, notice the screen within the physical space.

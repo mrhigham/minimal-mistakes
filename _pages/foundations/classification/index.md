@@ -3,9 +3,6 @@ title: "Classification"
 excerpt: "Using a common language to describe our interactives will help us communicate more effectively."
 ---
 
-INSERT DIAGRAMS / EDIT TEXT
-{: .notice--danger}
-
 {% include toc title="Interactives" %}
 
 Different classes of interactives present different requirements. These categories cover broad requirements and highlight key differences that might be considered during scoping and development stages.

@@ -45,7 +45,7 @@ More stringent documentation on analytics will be written as these are implement
   </li>
   <li><strong>Remember what analytics can and can’t measure.</strong> Many of the factors we want to track are impossible to do so with just analytics. For example:
     <ul>
-      <li>Did they actually watch the video, or did they just press the <code class="highlighter-rouge">Play</code>button?</li>
+      <li>Did they actually watch the video, or did they just press the <code class="highlighter-rouge">Play</code> button?</li>
       <li>Did they enjoy this article? Did they care? Did they understand it? Were they moved by it?</li>
     </ul>
   </li>

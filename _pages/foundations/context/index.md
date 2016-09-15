@@ -3,9 +3,6 @@ title: "Context"
 excerpt: "An interactive’s physical placement can affect its success. Consider how the following might affect the amount of content and how it is delivered."
 ---
 
-EDITS REQUIRED
-{: .notice--danger}
-
 ## ‘Surf or serve’
 
 ### Surf

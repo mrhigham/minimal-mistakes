@@ -15,35 +15,32 @@ site:
     url: /_pages/foundations/
     children:
 
-      - title: "*Classification"
+      - title: "Classification"
         url: /_pages/foundations/classification/
 
-      - title: "*Accessibility"
-        url: /_pages/foundations/accessibility/
-
-      - title: "*Analytics"
+      - title: "Analytics"
         url: /_pages/foundations/analytics/
       
       - title: "Context"
         url: /_pages/foundations/context/
 
-      - title: "**Content"
+      - title: "Content"
         url: /_pages/foundations/content/
 
   - title: "Principles"
     url: /_pages/principles/
     children:
-      
-      - title: "*Screensaver"
-        url: /_pages/principles/screensaver/
 
-      - title: "**Navigation"
-        url: /_pages/principles/navigation/
+      - title: "Accessibility"
+        url: /_pages/foundations/accessibility/
+
+      - title: "Screensaver"
+        url: /_pages/principles/screensaver/
 
       - title: "Layout"
         url: /_pages/principles/layout/
 
-      - title: "**Call-to-action"
+      - title: "Call-to-action"
         url: /_pages/principles/call-to-action/
 
   - title: "Patterns"
@@ -53,13 +50,13 @@ site:
     - title: "Video"
       url: /_pages/patterns/video/
     
-    - title: "*Digital labels"
+    - title: "Digital labels"
       url: /_pages/patterns/digital-labels/
 
-    - title: "*Online content"
+    - title: "Online content"
       url: /_pages/patterns/online-content/
 
-    - title: "*Icons"
+    - title: "Icons"
       url: /_pages/patterns/icons/
 
 
@@ -67,43 +64,40 @@ site:
 # Currently very flaky duplication going on here.. be warned.
 ################################################################################
 foundations:
-  - title: "*Classification"
+  - title: "Classification"
     url: /_pages/foundations/classification/
 
-  - title: "*Accessibility"
-    url: /_pages/foundations/accessibility/
-
-  - title: "*Analytics"
+  - title: "Analytics"
     url: /_pages/foundations/analytics/
   
   - title: "Context"
     url: /_pages/foundations/context/
 
-  - title: "**Content"
+  - title: "Content"
     url: /_pages/foundations/content/
 
 principles:
-  - title: "*Screensaver"
-    url: /_pages/principles/screensaver/
+  - title: "Accessibility"
+    url: /_pages/foundations/accessibility/
 
-  - title: "**Navigation"
-    url: /_pages/principles/navigation/
+  - title: "Screensaver"
+    url: /_pages/principles/screensaver/
 
   - title: "Layout"
     url: /_pages/principles/layout/
 
-  - title: "**Call-to-action"
+  - title: "Call-to-action"
     url: /_pages/principles/call-to-action/
 
 patterns:
   - title: "Video"
     url: /_pages/patterns/video/
   
-  - title: "*Digital labels"
+  - title: "Digital labels"
     url: /_pages/patterns/digital-labels/
 
-  - title: "*Online content"
+  - title: "Online content"
     url: /_pages/patterns/online-content/
 
-  - title: "*Icons"
+  - title: "Icons"
     url: /_pages/patterns/icons/
