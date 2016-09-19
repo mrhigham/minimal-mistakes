@@ -3,9 +3,12 @@ title: "Video"
 excerpt: "Use these patterns and guidelines when creating a video object in your interactive. The patterns generally apply to an interactive with a single video, or to video used as part of a bigger interactive."
 ---
 
-{% include toc %}
+EDIT: Add asset files
+{: .notice--danger}
 
 <a class="btn btn--info btn--large"><i class="fa fa-download"></i> Download all video assets (.ai, .sketch, .png)</a>
+
+{% include toc %}
 
 ## Poster
 

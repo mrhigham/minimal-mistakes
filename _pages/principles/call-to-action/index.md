@@ -3,6 +3,9 @@ title: "Call to action"
 excerpt: "Use obvious and consistent calls to action to inform users on how to use the interface."
 ---
 
+EDIT: Add button style examples
+{: .notice--danger}
+
 ## Avoid instructions
 
 Avoid the tendency to explain your interface.

@@ -3,7 +3,7 @@ title: "Digital labels"
 excerpt: "Patterns for digital labels."
 ---
 
-EDITS / IMAGES REQUIRED
+EDITS: Images and additions required
 {: .notice--danger}
 
 ## Wireframe overview

@@ -6,6 +6,9 @@ previous:
     url: "/_pages/patterns/video/"
 ---
 
+EDIT: Add asset file
+{: .notice--danger}
+
 <a class="btn btn--info btn--large"><i class="fa fa-download"></i> Download all icon assets (.ai, .png, .svg)</a>
 
 ## Icon

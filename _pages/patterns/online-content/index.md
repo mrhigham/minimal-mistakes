@@ -3,6 +3,9 @@ title: "Online content"
 excerpt: "Referencing our online content from within the museum is an important way of increasing engagement across our digital platforms and extending our connection with visitors."
 ---
 
+EDIT: Add user journey image
+{: .notice--danger}
+
 If content on an interactive will also be hosted online, point users to a shortened URL that redirects to the necessary location online.
 
 > Use this format: __tepapa.govt.nz/unique-identifier__
