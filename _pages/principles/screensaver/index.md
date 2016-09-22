@@ -16,5 +16,5 @@ From a user perspective, a screensaver should accomplish three things for an int
     * _Type:_ Is this a video? Is this an article? Surprising users with the type of content, like a wall of text, will inevitably turn users off. Make it obvious before they even touch (see more about [Video](/_pages/patterns/video/))
     * _Duration:_ Being forthcoming with a duration can help visitors accurately gauge whether or not this content is something they are interested in.
 
-If the screen houses more than a single piece of content, consider using the menu screen as a quasi-screensaver instead. __Doing this showcases the content on offer and reduces the number of interactions required.__ (There can be ways to mitigate damage to the screen, for example, less contrast on static elements, temporarily fading out the screen to black, etc. Talk to your trusty AV Tech during development :)
+If the screen houses more than a single piece of content, consider using the menu screen as a quasi-screensaver instead. __Doing this showcases the content on offer and reduces the number of interactions required.__ There can be ways to mitigate damage to the screen, for example, less contrast on static elements, temporarily fading out the screen to black, etc. Talk to your trusty AV Tech during development :)
 {: .notice--info}
