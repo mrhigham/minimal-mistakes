@@ -9,7 +9,7 @@ previous:
 EDIT: Add asset file
 {: .notice--danger}
 
-<a class="btn btn--info btn--large"><i class="fa fa-download"></i> Download all icon assets (.ai, .png, .svg)</a>
+<a href="/images/icons/icons.zip" class="btn btn--info btn--large"><i class="fa fa-download"></i> Download all icon assets (.png, .svg)</a>
 
 ## Icon
 

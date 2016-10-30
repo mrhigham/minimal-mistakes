@@ -2,6 +2,6 @@
 title: "Foundations"
 ---
 
-Broad articles on the interactives and their place in Te Papa.
+Broad articles on creating digital outputs.
 
 {% include nav_list nav="foundations" %}

@@ -8,8 +8,6 @@ EDIT: Add asset files
 
 <a class="btn btn--info btn--large"><i class="fa fa-download"></i> Download all video assets (.ai, .sketch, .png)</a>
 
-{% include toc %}
-
 ## Poster
 
 ![Basic video poster template](/images/video-poster.png)

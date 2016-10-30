@@ -35,5 +35,5 @@ Use the same title for an object in all of the places it is referred to. For exa
 
 ![Digital labels title](/images/digital-label-title.png)
 
-The title of the object is consistent from physical object to the digital interface.
+The title of the object is consistent from physical object on the floor (1), to the digital interface’s menu (2) and detail screens (3).
 {: .figcaption}

@@ -17,16 +17,19 @@
     {% endif %}
 
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      {% if f.url %}
+        <a href="{{ f_url }}" class="archive__link">
+      {% endif %}
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <img src=
-              {% if f.image_path contains "://" %}
-                "{{ f.image_path }}"
-              {% else %}
-                "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
-              {% endif %}
-            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+              <img src=
+                {% if f.image_path contains "://" %}
+                  "{{ f.image_path }}"
+                {% else %}
+                  "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
+                {% endif %}
+              alt="{% if f.alt %}{{ f.alt }}{% endif %}">
           </div>
         {% endif %}
 
@@ -41,11 +44,16 @@
             </div>
           {% endif %}
 
-          {% if f.url %}
-            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% if false %}
+            {% if f.url %}
+              <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            {% endif %}
           {% endif %}
         </div>
       </div>
+      {% if f.url %}
+        </a>
+      {% endif %}
     </div>
   {% endfor %}
 
