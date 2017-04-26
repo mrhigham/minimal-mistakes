@@ -50,6 +50,9 @@ site:
     - title: "Video"
       url: /_pages/patterns/video/
     
+    - title: "UI controls in Te reo Māori"
+      url: /_pages/patterns/ui-controls-te-reo/
+
     - title: "Digital labels"
       url: /_pages/patterns/digital-labels/
 
@@ -92,6 +95,9 @@ principles:
 patterns:
   - title: "Video"
     url: /_pages/patterns/video/
+  
+  - title: "UI controls in Te reo Māori"
+    url: /_pages/patterns/ui-controls-te-reo/
   
   - title: "Digital labels"
     url: /_pages/patterns/digital-labels/
