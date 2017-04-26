@@ -1,39 +1,34 @@
-# UI controls in Te reo Māori
+---
+title: "UI controls in Te Reo Māori"
+excerpt: "Te Reo Māori tranlsations for UI controls (eg, Home, Zoom)."
+---
 
-### Kāinga / Home
+### Kāinga
+_Home_ – This is for the home button that takes people back to the initial screen, or this can be thought of as back to the beginning. The text is likely to appear alongside an icon of a house.
 
-This is for the home button that takes people back to the initial screen, or this can be thought of as back to the beginning. The text appears alongside an icon of a house.
+### Katia
+_Close_ – This control is used to close a modal window (eg, a gallery) or close a close-up view of an image.
 
-### He tirohanga tata-ake / View close-up
+### Toroa te huinga whakaahua
+_Explore gallery_ – This control allows a person to view a gallery of images.
 
-Which will allow people to take a closer look at the medal. It will show a close up image of the medal that people can zoom into.   
+### He kape tuhi
+_Transcript_ – This control denotes a transcript of text that can be viewed.
+
+### E topa
+_Zoom_
+
+### Topa mai
+_Zoom in_
+
+### Topa atu
+_Zoom out_
+
+### He tirohanga tata-ake
+_View close-up_ – This control allows a person to take a closer look at an object or image.
+
+### Takahuria
+_Rotate_ – This control allows a person to view an image of the other side of an object (this text is suitable regardless of which angle is currently in view, eg the front or back).
  
-### Toroa te huinga whakaahua / Explore gallery
-
-This takes people to a gallery of images.
-
-### He kape tuhi / Transcript
-
-This opens a transcript of text
-
-### E topa / Zoom
-
-This will zoom into an image
-
-### Topa mai / Zoom in
-
-### Topa atu / Zoom out
-
-Once you have pressed the ‘Zoom’ button, you’ll get two more controls, to allow you to zoom in or zoom out.
-
-### Takahuria / Rotate
-
-This will show people an image of the other side of an object (works for either the ‘front’ or ‘back’ of an image).
- 
-### Katia / Close
-
-This will close a modal window (eg, a gallery) or close a close-up view of an image.
- 
-### He rārangi wā / Timeline
-
-Refers to part of the interface known as a timeline, or a organised set of events listed in chronological order.
+### He rārangi wā
+_Timeline_ – This control refers to part of the interface known as a timeline, or a organised set of events listed in chronological order.
