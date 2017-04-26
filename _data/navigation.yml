@@ -50,7 +50,7 @@ site:
     - title: "Video"
       url: /_pages/patterns/video/
     
-    - title: "UI controls in Te reo Māori"
+    - title: "UI controls in Te Reo Māori"
       url: /_pages/patterns/ui-controls-te-reo/
 
     - title: "Digital labels"
@@ -96,7 +96,7 @@ patterns:
   - title: "Video"
     url: /_pages/patterns/video/
   
-  - title: "UI controls in Te reo Māori"
+  - title: "UI controls in Te Reo Māori"
     url: /_pages/patterns/ui-controls-te-reo/
   
   - title: "Digital labels"
