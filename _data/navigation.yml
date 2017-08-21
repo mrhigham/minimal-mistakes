@@ -20,7 +20,7 @@ site:
 
       - title: "Analytics"
         url: /_pages/foundations/analytics/
-      
+
       - title: "Context"
         url: /_pages/foundations/context/
 
@@ -46,12 +46,18 @@ site:
   - title: "Patterns"
     url: /_pages/patterns/
     children:
-    
+
     - title: "Video"
       url: /_pages/patterns/video/
-    
-    - title: "UI controls in Te Reo Māori"
-      url: /_pages/patterns/ui-controls-te-reo/
+
+    - title: "Gloss"
+      url: /_pages/patterns/gloss/
+
+    - title: "Language Switch"
+      url: /_pages/patterns/language-switch/
+
+    - title: "UI control names"
+      url: /_pages/patterns/ui-control-names/
 
     - title: "Digital labels"
       url: /_pages/patterns/digital-labels/
@@ -72,7 +78,7 @@ foundations:
 
   - title: "Analytics"
     url: /_pages/foundations/analytics/
-  
+
   - title: "Context"
     url: /_pages/foundations/context/
 
@@ -95,10 +101,10 @@ principles:
 patterns:
   - title: "Video"
     url: /_pages/patterns/video/
-  
+
   - title: "UI controls in Te Reo Māori"
     url: /_pages/patterns/ui-controls-te-reo/
-  
+
   - title: "Digital labels"
     url: /_pages/patterns/digital-labels/
 
