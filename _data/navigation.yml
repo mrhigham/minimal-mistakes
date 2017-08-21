@@ -102,8 +102,14 @@ patterns:
   - title: "Video"
     url: /_pages/patterns/video/
 
-  - title: "UI controls in Te Reo Māori"
-    url: /_pages/patterns/ui-controls-te-reo/
+  - title: "Gloss"
+    url: /_pages/patterns/gloss/
+
+  - title: "Language Switch"
+    url: /_pages/patterns/language-switch/
+
+  - title: "UI control names"
+    url: /_pages/patterns/ui-control-names/
 
   - title: "Digital labels"
     url: /_pages/patterns/digital-labels/
