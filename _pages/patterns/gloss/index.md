@@ -10,7 +10,7 @@ We want to encourage users to encounter Te reo Māori, even when they are readin
 __Figure:__ The `gloss`component enables us to insert Māori words into English sentences to encourage language learning and aid with tranlsations.
 {: .figcaption}
 
-Because glosses disrupt reading by inserting a foreign language into a sentence, it is important to use them with care and sparingly. Some guidelines for using them are:
+Inserting unfamiliar words into text can (and should) disrupt readers, it is important to use them with care and sparingly. Some guidelines for using them are:
 
 - Nouns work best.
 - Do not start a sentence with a gloss.
