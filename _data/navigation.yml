@@ -27,7 +27,7 @@ site:
         url: /_pages/foundations/content/
     
       - title: "Research methods"
-        url: /_pages/research-methods/
+        url: /_pages/foundations/research-methods/
 
   - title: "Principles"
     url: /_pages/principles/
