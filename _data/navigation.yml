@@ -49,9 +49,6 @@ site:
     url: /_pages/patterns/
     children:
 
-    - title: "Video"
-      url: /_pages/patterns/video/
-
     - title: "Gloss"
       url: /_pages/patterns/gloss/
 
@@ -61,14 +58,17 @@ site:
     - title: "UI control names"
       url: /_pages/patterns/ui-control-names/
 
+    - title: "Icons"
+      url: /_pages/patterns/icons/
+
+    - title: "Video"
+      url: /_pages/patterns/video/
+
     - title: "Digital labels"
       url: /_pages/patterns/digital-labels/
 
     - title: "Online content"
       url: /_pages/patterns/online-content/
-
-    - title: "Icons"
-      url: /_pages/patterns/icons/
 
 
 ################################################################################
@@ -104,9 +104,6 @@ principles:
     url: /_pages/principles/call-to-action/
 
 patterns:
-  - title: "Video"
-    url: /_pages/patterns/video/
-
   - title: "Gloss"
     url: /_pages/patterns/gloss/
 
@@ -116,11 +113,14 @@ patterns:
   - title: "UI control names"
     url: /_pages/patterns/ui-control-names/
 
+  - title: "Icons"
+    url: /_pages/patterns/icons/
+
+  - title: "Video"
+    url: /_pages/patterns/video/
+
   - title: "Digital labels"
     url: /_pages/patterns/digital-labels/
 
   - title: "Online content"
     url: /_pages/patterns/online-content/
-
-  - title: "Icons"
-    url: /_pages/patterns/icons/
