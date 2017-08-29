@@ -8,10 +8,6 @@ main:
 
   - title: "Patterns"
     url: /_pages/patterns/
-    
-  - title: "Research methods"
-    url: /_pages/research-methods/
-
 
 site:
   - title: "Foundations"
@@ -29,6 +25,9 @@ site:
 
       - title: "Content"
         url: /_pages/foundations/content/
+    
+      - title: "Research methods"
+        url: /_pages/research-methods/
 
   - title: "Principles"
     url: /_pages/principles/
