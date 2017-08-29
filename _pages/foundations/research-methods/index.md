@@ -3,7 +3,7 @@ title: "Research methods"
 excerpt: "Handy list of different UX research methods that can be used for diverging or converging tasks."
 ---
 
-## Research methods
+## Choosing the right method
 
 The right research method can be determined after identifying factors like:
 
@@ -13,8 +13,10 @@ The right research method can be determined after identifying factors like:
 - What *Outputs* are need?
   - More questions? More insights?
   - Prototype designs?
-  - Identifying usability problems?
-<br/>
+  - Identifying usability problems?  
+
+NOTE: Links to resources will be added soon.
+{: .notice--warning}
 
 | Method                       | Description                                                                                                | Best for                                                                                                                                                                                                           | Inputs                                                     | Outputs                                                           | Mode       |
 |------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------|------------|
