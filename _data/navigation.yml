@@ -55,8 +55,8 @@ site:
     - title: "Gloss"
       url: /_pages/patterns/gloss/
 
-    - title: "Language Switch"
-      url: /_pages/patterns/language-switch/
+    - title: "Language toggle"
+      url: /_pages/patterns/language-toggle/
 
     - title: "UI control names"
       url: /_pages/patterns/ui-control-names/
@@ -110,8 +110,8 @@ patterns:
   - title: "Gloss"
     url: /_pages/patterns/gloss/
 
-  - title: "Language Switch"
-    url: /_pages/patterns/language-switch/
+  - title: "Language toggle"
+    url: /_pages/patterns/language-toggle/
 
   - title: "UI control names"
     url: /_pages/patterns/ui-control-names/
