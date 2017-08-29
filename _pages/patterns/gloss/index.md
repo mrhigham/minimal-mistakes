@@ -3,15 +3,20 @@ title: "Gloss"
 excerpt: "Use this pattern to attach a translation and an audio pronunciation guide to single words in a sentence."
 ---
 
-Te Papa uses New Zealand English for all written content. This includes many Māori words that many New Zealanders know, such as hangi, haka, hui, and iwi.
+We want to encourage users to encounter Te reo Māori, even when they are reading English. To do this, we can add Māori words into English text and use the `gloss` component to provide an in-context definition and pronunciation audio clip.
 
-Visitors to the museum come from many backgrounds and nations, and may not understand these words, even when used in context.
+![Gloss](/images/gloss.png)
 
-To aid understanding, and support learning Māori, we will provide a ‘gloss’ facility to enable visitors to find out what each word means, and how it is pronounced.
+__Figure:__ The `gloss`component enables us to insert Māori words into English sentences to encourage language learning and aid with tranlsations.
+{: .figcaption}
 
-This facility will also be used to extend use of Māori within exhibition writing.
+Because glosses disrupt reading by inserting a foreign language into a sentence, it is important to use them with care and sparingly. Some guidelines for using them are:
 
-Within a digital interactive, Māori words will be clickable. Clicking opens a popup that includes a translation and an option to hear the word spoken.
+- Nouns work best.
+- Do not start a sentence with a gloss.
+- Do not use a gloss in headings or on interactive elements.
+- Keep to a maximum of 1 gloss per paragraph.
+- If a gloss is used for the word `taonga`, as an example, all instances of `taonga` should be in a gloss for the entire interactive.
 
-EDIT: Add example of design pattern
-{: .notice--danger}
+The intent of the `gloss` component is to actively encourage Te reo language learning for non-Māori speakers. This differs from the `language-toggle` component which switches the language of the _entire interactive_, which will be used by fluent speakers.
+{: .notice--info}
