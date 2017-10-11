@@ -13,6 +13,7 @@ excerpt: "The standard names we use for UI controls, and their te reo Māori equ
 | Zoom | E topa |  |
 | Zoom in | Topa mai |  |
 | Zoom out | Topa atu |  |
+| Original | taketake |  |
 | View close-up | He tirohanga tata-ake | This control allows a person to take a closer look at an object or image. |
 | Rotate | Takahuria | This control allows a person to view an image of the other side of an object (this text is suitable regardless of which angle is currently in view, eg the front or back). |
 | Timeline | He rārangi wā | This control refers to part of the interface known as a timeline, or a organised set of events listed in chronological order. |
