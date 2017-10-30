@@ -43,7 +43,7 @@ Interactive elements should employ other design features to convey their interac
 
 ## Subtitles
 
-Use English subtitles on all video content to ensure people who are deaf or hearing-impaired are able to access the audio content. It is preferable to also supply Te reo Māori subtitles where possible.
+English subtitles should be provided on all video content to ensure people who are deaf or hearing-impaired are able to access the audio content. These should be displayed by default to ensure no content is missed by this group. It is preferable to also supply reo Māori subtitles where possible.
 
 More on __[subtitles](/_pages/patterns/video#subtitles)__.
 
