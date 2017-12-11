@@ -21,7 +21,7 @@ With extra investment in the longer term, digital labels also have the potential
 * saving and sharing\*
 * visitor responses and contributions\*
 
-\*Note: Do audiences actually want this functionality? More research required.
+\*Do audiences _actually_ want this functionality? More research required.
 {: .notice--warning}
 
 ## Guidelines for digital labels
@@ -30,9 +30,7 @@ These guidelines apply to _labels connected to multiple objects,_ not stand-alon
 
 1.	**Level of information hierarchy:** Use digital labels at the level of objects only, not introductions (ie, level 3 and below of the information hierarchy). At the upper levels, Māori and English should be displayed permanently alongside one another (te reo first), with equal status and presence, differentiated only by colour.
 
-2.	**Language:** Present text in Māori and English and use the [language toggle component](/_pages/patterns/language-toggle/)  to allow visitors to switch languages. English is presented as the default language and makes use of the [gloss component](/_pages/patterns/gloss/) to encourage English readers to learn te reo words.
-
-Other languages can be implemented, but Māori remains the priority and is presented as the first option in the toggle.
+2.	**Language:** Present text in Māori and English and use the [language toggle component](/_pages/patterns/language-toggle/)  to allow visitors to switch languages. English is presented as the default language and makes use of the [gloss component](/_pages/patterns/gloss/) to encourage English readers to learn te reo words. (Other languages can be implemented, but Māori remains the priority and is presented as the first option in the toggle.)
 
 3.	**Placement:** Place the digital labels as close as possible to the relevant objects without obscuring them, and ensure that visitors (including young visitors and those in wheelchairs) can easily reach the screens (see [Accesssibility](/_pages/foundations/accessibility/) for more information on screen placement). A visitor looking at an object should instantly know where to go for information about it.
 
@@ -40,10 +38,10 @@ Other languages can be implemented, but Māori remains the priority and is prese
 
 5.	**User interface and accessibility:**
 
-*	Make use of ['natural mapping'](/_pages/principles/layout/) to ensure an exact visual match between what is displayed on screen and the associated content in the exhibition space. 
-*	Place navigational icons and other key elements in consistent places across digital labels.
-*	Place core ‘object label’ information on or near the surface: descriptor, maker, materials. 
-*	Adhere to our [accessibility guidelines](/_pages/foundations/accessibility/) – eg, colour contrast, use of subtitles in video, minimum text size, left-aligned text. 
+  *	Make use of ['natural mapping'](/_pages/principles/layout/) to ensure an exact visual match between what is displayed on screen and the associated content in the exhibition space. 
+  *	Place navigational icons and other key elements in consistent places across digital labels.
+  *	Place core ‘object label’ information on or near the surface: descriptor, maker, materials. 
+  *	Adhere to our [accessibility guidelines](/_pages/foundations/accessibility/) – eg, colour contrast, use of subtitles in video, minimum text size, left-aligned text. 
 
 6.	**Close looking:** Prompt visitors to look back at the real objects: `Notice ...` / `Can you see ...?`
 
