@@ -1,4 +1,7 @@
-# Digital labels
+---
+title: "Digital labels"
+excerpt: "Guidelines for creating digital labels, created for Natural History and History Renewal specifically."
+---
 
 As part of the Exhibition Renewal, and principally for the natural environment and history spaces, we’re exploring the use of digital labels to tell stories around objects. They’re intended primarily for object-dense cases (as per _Bug Lab_ insect labels – and even more dense examples), not as a mechanism to tell complex stories (as per _Gallipoli_ soldier stories, which anecdotally receive very little engagement). 
 
