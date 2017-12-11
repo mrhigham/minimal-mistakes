@@ -2,7 +2,7 @@
 
 ## Why use digital labels?
 
-As part of the Exhibition Renewal, and principally for the natural environment and history spaces, we’re exploring the use of digital labels to tell stories around objects. They’re intended primarily for object-dense cases (as per Bug Lab insect labels – and even more dense examples), not as a mechanism to tell complex stories (as per Gallipoli soldier stories, which anecdotally receive very little engagement). 
+As part of the Exhibition Renewal, and principally for the natural environment and history spaces, we’re exploring the use of digital labels to tell stories around objects. They’re intended primarily for object-dense cases (as per _Bug Lab_ insect labels – and even more dense examples), not as a mechanism to tell complex stories (as per _Gallipoli_ soldier stories, which anecdotally receive very little engagement). 
 
 ### Why _digital_ labels? 	
 
@@ -26,15 +26,15 @@ With extra investment in the longer term, digital labels also have the potential
 
 These guidelines apply to _labels connected to multiple objects,_ not stand-alone digital interactives. (Some elements may also be relevant to digital labels for single, hero objects, like Te Hau ki Tūranga, but they’re not the biggest priority.)
 
-1.	LEVEL OF INFORMATION HIERARCHY: Use digital labels at the level of objects only, not introductions (ie, level 3 and below of the information hierarchy). At the upper levels, te reo and English should be displayed permanently alongside one another (te reo first), with equal status and presence, differentiated only by colour.
+1.	**Level of information hierarchy:** Use digital labels at the level of objects only, not introductions (ie, level 3 and below of the information hierarchy). At the upper levels, te reo and English should be displayed permanently alongside one another (te reo first), with equal status and presence, differentiated only by colour.
 
-2.	LANGUAGE: Present text in English and Māori, with a toggle between. Default to English (but keep te reo first on physical labels). Other languages are possible, but Māori is the priority.
+2.	**Language:** Present text in English and Māori, with a toggle between. Default to English (but keep te reo first on physical labels). Other languages are possible, but Māori is the priority.
 
-3.	PLACEMENT: Place the digital labels as close as possible to the relevant objects without obscuring them, and ensure that visitors (including young visitors and those in wheelchairs) can easily reach the screens. A visitor looking at an object should instantly know where to go for information about it.
+3.	**Placement:** Place the digital labels as close as possible to the relevant objects without obscuring them, and ensure that visitors (including young visitors and those in wheelchairs) can easily reach the screens. A visitor looking at an object should instantly know where to go for information about it.
 
-4.	LESS IS MORE: Ensure a clear purpose – less is more, as per physical labels. Limit choices, and keep levels of content to two or three layers maximum (including home), because ‘out of sight = out of mind’. (Highly connected or complex content – eg, with multiple links and pathways – is appropriate only in intermediary spaces like lounges, where visitor behaviour is different.) 
+4.	**Less is more:** Ensure a clear purpose – less is more, as per physical labels. Limit choices, and keep levels of content to two or three layers maximum (including home), because ‘out of sight = out of mind’. (Highly connected or complex content – eg, with multiple links and pathways – is appropriate only in intermediary spaces like lounges, where visitor behaviour is different.) 
 
-5.	USER INTERFACE AND ACCESSIBILITY: 
+5.	**User interface and accessibility:**
 
 *	Ensure an exact visual match between what is displayed on screen and the associated content in the exhibition space (‘natural mapping’). 
 *	Place navigational icons and other key elements in consistent places across digital labels.
@@ -43,12 +43,12 @@ These guidelines apply to _labels connected to multiple objects,_ not stand-alon
 *	Include subtitles for video content. 
 *	Avoid scrolling.
 
-6.	CLOSE LOOKING: Prompt visitors to look back at the real objects: Notice … Can you see …?
+6.	**Close looking** Prompt visitors to look back at the real objects: Notice … Can you see …?
 
-7.	TEXT: As per physical labels, use bite-sized text – 30 to 70 words per page, in short paragraphs. 
+7.	**Text:** As per physical labels, use bite-sized text – 30 to 70 words per page, in short paragraphs. 
 
-8.	INTROS: Skip them! Get to the point, with the fewest clicks possible between user and content.  
+8.	**Introductions:** Skip them! Get to the point, with the fewest clicks possible between user and content.  
 
-9.	LINKS: Link and hotspots should say where they’ll take you (not simply Next, Previous, or Touch). 
+9.	**Links:** Link and hotspots should say where they’ll take you (not simply Next, Previous, or Touch). 
 
-10.	EXTRAS? Consider the potential to support accessibility (eg, audio, font sizes, language learning). 
+10.	**Extras:** Consider the potential to support accessibility (eg, audio, font sizes, language learning). 
