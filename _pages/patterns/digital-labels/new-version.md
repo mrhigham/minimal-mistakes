@@ -10,7 +10,7 @@ Unlike print labels, digital labels can:
 
 * increase bilingual content without overloading the exhibition with text, which dramatically reduces engagement (and potentially support reo learning via glossary pop-ups, and image and audio support)
 * include simple multimedia content (eg, stills, video) as part of the interpretation around objects – ie, bring them to life
-* support a more active, discovery-based relationship with the visitor (as observed in Bug Lab)
+* support a more active, discovery-based relationship with the visitor (as observed in _Bug Lab_)
 * support accessibility – eg, the ability to alter text size or hear an audio version (for sight impaired)
 * reduce the costs of correcting or updating exhibition information as no reprinting is required (for touring exhibitions, reprinting deteriorated labels costs about $2,000 per venue)
 * be reused from one exhibition to the next (for up to 5 years approximately).
@@ -24,11 +24,11 @@ With extra investment in the longer term, digital labels also have the potential
 
 ## Guidelines for digital labels
 
-These guidelines apply to _labels connected to multiple objects,_ not stand-alone digital interactives. (Some elements may also be relevant to digital labels for single, hero objects, like Te Hau ki Tūranga, but they’re not the biggest priority.)
+These guidelines apply to _labels connected to multiple objects,_ not stand-alone digital interactives. (Some elements may also be relevant to digital labels for single, hero objects – like Te Hau ki Tūranga in _Ko Rongowhakaata_ – but they’re not the biggest priority.)
 
-1.	**Level of information hierarchy:** Use digital labels at the level of objects only, not introductions (ie, level 3 and below of the information hierarchy). At the upper levels, te reo and English should be displayed permanently alongside one another (te reo first), with equal status and presence, differentiated only by colour.
+1.	**Level of information hierarchy:** Use digital labels at the level of objects only, not introductions (ie, level 3 and below of the information hierarchy). At the upper levels, Māori and English should be displayed permanently alongside one another (te reo first), with equal status and presence, differentiated only by colour.
 
-2.	**Language:** Present text in English and Māori, with a toggle between. Default to English (but keep te reo first on physical labels). Other languages are possible, but Māori is the priority.
+2.	**Language:** Present text in Māori and English, with a toggle between. Default to English (but keep Māori first on physical labels). Other languages are possible, but Māori is the priority.
 
 3.	**Placement:** Place the digital labels as close as possible to the relevant objects without obscuring them, and ensure that visitors (including young visitors and those in wheelchairs) can easily reach the screens. A visitor looking at an object should instantly know where to go for information about it.
 
