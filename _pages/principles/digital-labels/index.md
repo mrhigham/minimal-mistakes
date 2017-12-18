@@ -5,19 +5,14 @@ excerpt: "Guidelines for creating digital labels, created for Natural History an
 
 ## What is a digital label?
 
-A digital label is an **object-focused** interactive touchscreen that offers interpretation for **objects on display** in the exhibition.
+A digital label is an interactive touchscreen that exclusively offers interpretation for **objects on display** in the exhibition.
 
-Examples include:
+Previous examples include:
 
 * _Bug Lab_ specimen interactives
 * _Blood Earth Fire_ ‘Arrivals’ interactives
 
-Digital labels contrasts with other digital interactives that are story-focused and only relate to objects secondarily, if at all. Typically, these screens receive little ‘deep engagement’ from visitors.
-
-Examples include:
-
-* _Gallipoli_ soldier stories
-* _Ko Rongowhakaata_ story-based digital interactives (eg, ‘Te Kooti’ or ’Christian Faith’ interactives)
+Digital labels contrast with digital interactives that are used to tell complex, linear stories that relate to objects secondarily, if at all, such as _Gallipoli_ soldier stories and _Ko Rongowhakaata_ interactives such as ‘Te Kooti’, ‘Stories of War’ and ’Christian Faith’. Typically, most visitors do not engage deeply, or at all, with these screens.
 
 ## Why _digital_ labels?
 
@@ -46,8 +41,6 @@ Use digital labels at the level of objects only, not introductions (ie, level 3 
 
 * Digital labels should generally remain **shallow** and consist of only 1–2 layers of content per object (rather than linear story-telling comprised of several screens).
 
-Digital labels will likely represent many objects and therefore have a ‘broad’ scope of choices. However, keep digital labels ‘shallow‘ by only including two or three layers maximum (including home), because ‘out of sight = out of mind’. 
-
 Highly connected or complex content – eg, with multiple links and pathways – is appropriate only in [intermediary spaces like lounges](/_pages/foundations/context/), where visitor behaviour is different.
 {: .notice--info}
 
@@ -55,15 +48,7 @@ Highly connected or complex content – eg, with multiple links and pathways –
 
 * Get to the point. Skip introductions and bring the conclusion to the fore.
 
-* Sequence content delivery. Visitors typically skim-read so offer the core description first. Offer secondary, deeper content *following* this primary layer, if at all.
-
-  * An example of this is the Portraits screen designed for _Tūrangawaewae_. A basic user journey is as follows:
-  
-    1. Menu screen – all objects on display in the gallery feature on this screen
-    
-    2. Object label screen – when a user selects an object from the menu screen, they are presented with the key idea and the core object label information. From this screen, they can opt for more (secondary) content, such as the artist’s bio, hotspot content, a tangential ‘conservator’s’ story (eg, the back of the painting) or find related artworks.
-    
-    3. Secondary content – eg, the back of the painting
+* Sequence content delivery and put the most important thing first. Visitors typically skim-read so present the key idea and essential object description upfront. Offer secondary, deeper content *following* this primary layer, if at all.
 
 ## 4. Word count
 
@@ -82,9 +67,9 @@ Indicative examples of the language toggle and gloss components used in digital 
 
 ## 6. Physical placement
 
-Consider the viewpoint of a visitor directly in front of the object – a visitor should know instantly where to go for information. The digital label should be ‘at hand’ when needed.
+* **From object → label**: Consider the viewpoint of a visitor directly in front of the object. A visitor should know instantly where to go for information; the digital label should be ‘at hand‘.
 
-Equally, when the visitor is using the digital label, ensure they have a clear line of sight back to the object.
+* **From label → object**: Consider the viewpoint of a visitor in front of the label. A visitor should have a clear line of sight from the label back to the displayed object.
 
 As always, ensure that young visitors and those in wheelchairs can easily reach the screens (see [Accesssibility](/_pages/foundations/accessibility/) for more information on accessible screen placement). 
 {: .notice--warning}
@@ -108,4 +93,7 @@ Prompt visitors to look back at the real objects on display: `Notice ...` / `Can
 
 Links should say where they’ll take you. Avoid ambiguous links like `Next`, `Previous`, or `Touch here` – for more on this, see [Call to action](/_pages/principles/call-to-action/).
 
-> [WTF is 'mystery meat navigation'?](https://en.wikipedia.org/wiki/Mystery_meat_navigation)
+![Mystery meat meme](/images/mystery-meat.jpg)
+
+[WTF is 'mystery meat navigation'?](https://en.wikipedia.org/wiki/Mystery_meat_navigation)
+{: .figcaption}
