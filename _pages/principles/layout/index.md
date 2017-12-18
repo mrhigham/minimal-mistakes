@@ -1,9 +1,7 @@
 ---
-title: "Layout"
-excerpt: "Layout guidelines for digital outputs."
+title: "Natural mapping"
+excerpt: "When representing objects on display, create a close visual match between the interface and the display."
 ---
-
-## Natural mapping
 
 Where possible, represent the digital content in response to the layout of its related physical object. This doesn’t require an exact 1:1 relationship, but consider how it can reduce the cognitive load of the user to map them in similar layouts (see the example of the stove top controls).
 
@@ -21,33 +19,3 @@ An example of natural mapping in an interactive can be taken from the _Anzac Pri
 
 One of the four menu screens from the _Anzac Print Gallery_ interactive, demonstrating the principle of natural mapping. Note, touching on the artwork, artist’s picture or name, or the Play button triggered the video. The screen looped between the four menu screens removing the need for a screensaver.
 {: .figcaption}
-
-## Navigation
-
-### Next and Previous
-
-![Use of Next and Previous icons](/images/navigation-next-prev.png)
-
-Correct usage of Next and Previous icons showing relationship between equal pieces of content.
-{: .figcaption}
-
-### Back
-
-![Use of Back icon](/images/navigation-back.png)
-
-Correct usage of Back icon showing movement ‘up’ a layer of navigation.
-{: .figcaption}
-
-Don’t use the Home icon for movement between a single layer of navigation. Instead, use it when it will take a user up multiple layers ‘all the way home’.
-{: .notice--warning}
-
-### Close
-
-![Use of Back icon](/images/navigation-close.png)
-
-Correct usage of Close icon showing the dismissal of a modal window appearing as a layer above the current screen.
-{: .figcaption}
-
-## Accessibility
-
-If your screen is wall-mounted, position interactive hotspots below the centre line. See [accessibility considerations](/_pages/foundations/accessibility/) for more detail.
