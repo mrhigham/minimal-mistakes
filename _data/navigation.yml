@@ -33,14 +33,20 @@ site:
     url: /_pages/principles/
     children:
 
+      - title: "Digital labels"
+        url: /_pages/principles/digital-labels/
+
       - title: "Accessibility"
         url: /_pages/foundations/accessibility/
 
       - title: "Screensaver"
         url: /_pages/principles/screensaver/
 
-      - title: "Layout"
-        url: /_pages/principles/layout/
+      - title: "Natural mapping"
+        url: /_pages/principles/natural-mapping/
+
+      - title: "Navigation"
+        url: /_pages/principles/navigation/
 
       - title: "Call-to-action"
         url: /_pages/principles/call-to-action/
@@ -63,9 +69,6 @@ site:
 
     - title: "Video"
       url: /_pages/patterns/video/
-
-    - title: "Digital labels"
-      url: /_pages/patterns/digital-labels/
 
     - title: "Online content"
       url: /_pages/patterns/online-content/
@@ -91,14 +94,20 @@ foundations:
     url: /_pages/foundations/research-methods/
 
 principles:
+  - title: "Digital labels"
+    url: /_pages/principles/digital-labels/
+
   - title: "Accessibility"
     url: /_pages/foundations/accessibility/
 
   - title: "Screensaver"
     url: /_pages/principles/screensaver/
 
-  - title: "Layout"
-    url: /_pages/principles/layout/
+  - title: "Natural mapping"
+    url: /_pages/principles/natural-mapping/
+
+  - title: "Navigation"
+    url: /_pages/principles/navigation/
 
   - title: "Call-to-action"
     url: /_pages/principles/call-to-action/
@@ -118,9 +127,6 @@ patterns:
 
   - title: "Video"
     url: /_pages/patterns/video/
-
-  - title: "Digital labels"
-    url: /_pages/patterns/digital-labels/
 
   - title: "Online content"
     url: /_pages/patterns/online-content/
