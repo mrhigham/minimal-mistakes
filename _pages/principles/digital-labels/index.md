@@ -14,22 +14,9 @@ Previous examples include:
 
 Digital labels contrast with digital interactives that are used to tell complex, linear stories that relate to objects secondarily, if at all, such as _Gallipoli_ soldier stories and _Ko Rongowhakaata_ interactives such as ‘Te Kooti’, ‘Stories of War’ and ’Christian Faith’. Typically, most visitors do not engage deeply, or at all, with these screens.
 
-## Why _digital_ labels?
-
-Unlike print labels, digital labels can:
-
-* **increase bilingual content** without adding to the visual overload of text (which dramatically reduces visitor engagement);
-* support **reo learning** via glossary pop-ups with audio support;
-* **include multimedia content** (eg, stills, video, image zooming) as part of the interpretation around objects – ie, bring them to life;
-* support a more **active, discovery-based relationship** with the visitor (as observed in _Bug Lab_);
-* support **accessibility** – eg, ability to alter text size or hear an audio version (for sight impaired); and,
-* **reduce the costs of correcting or updating exhibition information** as no reprinting is required.
-
-With extra investment in the longer term, digital labels also have the potential to support saving, sharing and visitor contribution functionality, however more research is required to assess visitor appetite for this.
-
 --------
 
-Guidelines for developing digital labels:
+**Guidelines for developing digital labels:**
 
 ## 1. Object-level only
 
@@ -87,7 +74,13 @@ Consider ways to extend accessibility support, eg, audio, dynamic font sizes, ad
 
 ## 8. Encourage close looking
 
-Prompt visitors to look back at the real objects on display: `Notice ...` / `Can you see ...?` / `Look at the ...`
+Prompt visitors to look back at the real objects on display. For example:
+
+* `Notice the telescope he is holding.`
+
+* `Can you see the ship in the distance?`
+
+* `Look at the tatau on her arms.`
 
 ## 9. No 'mystery meat' links
 
@@ -97,3 +90,18 @@ Links should say where they’ll take you. Avoid ambiguous links like `Next`, `P
 
 [WTF is 'mystery meat navigation'?](https://en.wikipedia.org/wiki/Mystery_meat_navigation)
 {: .figcaption}
+
+--------
+
+## Why _digital_ labels?
+
+Unlike print labels, digital labels can:
+
+* **increase bilingual content** without adding to the visual overload of text (which dramatically reduces visitor engagement);
+* support **reo learning** via glossary pop-ups with audio support;
+* **include multimedia content** (eg, stills, video, image zooming) as part of the interpretation around objects – ie, bring them to life;
+* support a more **active, discovery-based relationship** with the visitor (as observed in _Bug Lab_);
+* support **accessibility** – eg, ability to alter text size or hear an audio version (for sight impaired); and,
+* **reduce the costs of correcting or updating exhibition information** as no reprinting is required.
+
+With extra investment in the longer term, digital labels also have the potential to support saving, sharing and visitor contribution functionality, however more research is required to assess visitor appetite for this.
