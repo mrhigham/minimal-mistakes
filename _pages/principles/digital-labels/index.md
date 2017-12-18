@@ -7,12 +7,14 @@ excerpt: "Guidelines for creating digital labels, created for Natural History an
 
 A digital label is an **object-focused** interactive touchscreen that offers interpretation for **objects on display** in the exhibition.
 
-Examples of digital labels in Te Papa:
+Examples include:
 
-* _Bug Lab_ specimen labels
-* _Blood Earth Fire_ ‘Arrivals’ exhibit
+* _Bug Lab_ specimen interactives
+* _Blood Earth Fire_ ‘Arrivals’ interactives
 
-Digital labels contrasts with other digital interactives that are story-focused or game-based. Examples of these screens in Te Papa are:
+Digital labels contrasts with other digital interactives that are story-focused and only relate to objects secondarily, if at all. Typically, these screens receive little ‘deep engagement’ from visitors.
+
+Examples include:
 
 * _Gallipoli_ soldier stories
 * _Ko Rongowhakaata_ story-based digital interactives (eg, ‘Te Kooti’ or ’Christian Faith’ interactives)
@@ -22,7 +24,7 @@ Digital labels contrasts with other digital interactives that are story-focused 
 Unlike print labels, digital labels can:
 
 * **increase bilingual content** without adding to the visual overload of text (which dramatically reduces visitor engagement);
-* **support reo learning** via glossary pop-ups, and image and audio support;
+* support **reo learning** via glossary pop-ups with audio support;
 * **include multimedia content** (eg, stills, video, image zooming) as part of the interpretation around objects – ie, bring them to life;
 * support a more **active, discovery-based relationship** with the visitor (as observed in _Bug Lab_);
 * support **accessibility** – eg, ability to alter text size or hear an audio version (for sight impaired); and,
@@ -55,7 +57,11 @@ Use bite-sized text – 30 to 70 words per page, in short paragraphs.
 
 ## 5. Language
 
-Present text in Māori and English and use the [language toggle component](/_pages/patterns/language-toggle/) to allow visitors to switch languages. English is presented as the default language and makes use of the [gloss component](/_pages/patterns/gloss/) to encourage English readers to learn te reo words.
+* Digital labels are always bilingual. Use the [language toggle](/_pages/patterns/language-toggle/) to offer text in Māori and English.
+
+* Default the interactive to English, but present Māori as the first option in the toggle
+
+* Make use of the [glosses](/_pages/patterns/gloss/) to encourage English readers to learn te reo words.
 
 ![Language tools](/images/language-tools.png)
 
