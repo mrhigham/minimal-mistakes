@@ -42,6 +42,10 @@ Use digital labels at the level of objects only, not introductions (ie, level 3 
 
 ## 2. Broad and shallow
 
+* Digital labels will likely represent many objects and therefore have a **broad** scope of choices. While this may create a large amount of content, if this represents the number of objects on display, it is not seen as overwhelming.
+
+* Digital labels should generally remain **shallow** and consist of only 1–2 layers of content per object (rather than linear story-telling comprised of several screens).
+
 Digital labels will likely represent many objects and therefore have a ‘broad’ scope of choices. However, keep digital labels ‘shallow‘ by only including two or three layers maximum (including home), because ‘out of sight = out of mind’. 
 
 Highly connected or complex content – eg, with multiple links and pathways – is appropriate only in [intermediary spaces like lounges](/_pages/foundations/context/), where visitor behaviour is different.
@@ -49,7 +53,17 @@ Highly connected or complex content – eg, with multiple links and pathways –
 
 ## 3. Front-load content
 
-Get to the point. Skip introductions and bring the conclusion to the fore. Visitors typically skim-read so place core ‘object label’ information (eg, descriptor, maker, materials) on or near the surface along with a key idea. If secondary, deeper content is also offered, make it available *following* this primary layer.
+* Get to the point. Skip introductions and bring the conclusion to the fore.
+
+* Sequence content delivery. Visitors typically skim-read so offer the core description first. Offer secondary, deeper content *following* this primary layer, if at all.
+
+  * An example of this is the Portraits screen designed for _Tūrangawaewae_. A basic user journey is as follows:
+  
+    1. Menu screen – all objects on display in the gallery feature on this screen
+    
+    2. Object label screen – when a user selects an object from the menu screen, they are presented with the key idea and the core object label information. From this screen, they can opt for more (secondary) content, such as the artist’s bio, hotspot content, a tangential ‘conservator’s’ story (eg, the back of the painting) or find related artworks.
+    
+    3. Secondary content – eg, the back of the painting
 
 ## 4. Word count
 
@@ -57,9 +71,7 @@ Use bite-sized text – 30 to 70 words per page, in short paragraphs.
 
 ## 5. Language
 
-* Digital labels are always bilingual. Use the [language toggle](/_pages/patterns/language-toggle/) to offer text in Māori and English.
-
-* Default the interactive to English, but present Māori as the first option in the toggle
+* Digital labels are always bilingual. Use the [language toggle](/_pages/patterns/language-toggle/) to offer text in Māori and English. Default the interactive to English, but present Māori as the first option in the toggle.
 
 * Make use of the [glosses](/_pages/patterns/gloss/) to encourage English readers to learn te reo words.
 
