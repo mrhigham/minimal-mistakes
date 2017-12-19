@@ -16,6 +16,21 @@ Digital labels contrast with digital interactives that are used to tell complex,
 
 --------
 
+## Why _digital_ labels?
+
+Unlike print labels, digital labels can:
+
+* **increase bilingual content** without adding to the visual overload of text (which dramatically reduces visitor engagement);
+* support **reo learning** via glossary pop-ups with audio support;
+* **include multimedia content** (eg, stills, video, image zooming) as part of the interpretation around objects – ie, bring them to life;
+* support a more **active, discovery-based relationship** with the visitor (as observed in _Bug Lab_);
+* support **accessibility** – eg, ability to alter text size or hear an audio version (for sight impaired); and,
+* **reduce the costs of correcting or updating exhibition information** as no reprinting is required.
+
+With extra investment in the longer term, digital labels also have the potential to support saving, sharing and visitor contribution functionality, however more research is required to assess visitor appetite for this.
+
+--------
+
 **Guidelines for developing digital labels:**
 
 ## 1. Object-level only
@@ -33,19 +48,19 @@ Highly connected or complex content – eg, with multiple links and pathways –
 
 ## 3. Front-load content
 
-* Get to the point. Skip introductions and bring the conclusion to the fore.
+* **Get to the point.** Skip introductions and bring the conclusion to the fore.
 
-* Sequence content delivery and put the most important thing first. Visitors typically skim-read so present the key idea and essential object description upfront. Offer secondary, deeper content *following* this primary layer, if at all.
+* **Sequence content delivery.** Present the key idea and essential object description upfront. Offer (but don't show) secondary, deeper content at this primary layer, if at all.
 
 ## 4. Word count
 
-Use bite-sized text – 30 to 70 words per page, in short paragraphs.
+Use bite-sized text – **30 to 70 words per page** – in short paragraphs.
 
 ## 5. Language
 
-* Digital labels are always bilingual. Use the [language toggle](/_pages/patterns/language-toggle/) to offer text in Māori and English. Default the interactive to English, but present Māori as the first option in the toggle.
+* **Bilingual as a rule.** Use the [language toggle](/_pages/patterns/language-toggle/) to offer text in Māori and English. Default the interactive to English, but present Māori as the first option in the toggle.
 
-* Make use of the [glosses](/_pages/patterns/gloss/) to encourage English readers to learn te reo words.
+* **Te reo for English readers.** Make use of the [glosses](/_pages/patterns/gloss/) in order to include Māori words in the body copy of English text to encourage te reo learning.
 
 ![Language tools](/images/language-tools.png)
 
@@ -63,13 +78,13 @@ As always, ensure that young visitors and those in wheelchairs can easily reach 
 
 ## 7. User interface
 
-  *	Make use of ['natural mapping'](/_pages/principles/layout/) to ensure an exact visual match between what is displayed on screen and the associated content in the exhibition space.
+  *	**Natural mapping.** Make use of ['natural mapping'](/_pages/principles/layout/) to ensure an exact visual match between what is displayed on screen and the associated content in the exhibition space.
   
-  *	Place navigational icons and other key elements in consistent places across digital labels.
+  *	**Consistent UI.** Place navigational icons and other key elements in consistent places across digital labels.
  
-  *	Adhere to our [accessibility guidelines](/_pages/foundations/accessibility/) – eg, colour contrast, use of subtitles in video, minimum text size.
+  *	**Accessibility.** Adhere to our [accessibility guidelines](/_pages/foundations/accessibility/) – eg, colour contrast, use of subtitles in video, minimum text size.
 
-Consider ways to extend accessibility support, eg, audio, dynamic font sizes, additional languages, extended language learning, etc.
+Consider ways to extend accessibility support, eg, audio support, dynamic font sizes, high contrast versions, additional languages, etc.
 {: .notice--info}
 
 ## 8. Encourage close looking
@@ -84,24 +99,9 @@ Prompt visitors to look back at the real objects on display. For example:
 
 ## 9. No 'mystery meat' links
 
-Links should say where they’ll take you. Avoid ambiguous links like `Next`, `Previous`, or `Touch here` – for more on this, see [Call to action](/_pages/principles/call-to-action/).
+**Avoid ambiguous links** like `Next`, `Previous`, or `Touch here`. Instead, links should state where they’ll take you. (For more on this, see [Call to action](/_pages/principles/call-to-action/).)
 
 ![Mystery meat meme](/images/mystery-meat.jpg)
 
 [WTF is 'mystery meat navigation'?](https://en.wikipedia.org/wiki/Mystery_meat_navigation)
 {: .figcaption}
-
---------
-
-## Why _digital_ labels?
-
-Unlike print labels, digital labels can:
-
-* **increase bilingual content** without adding to the visual overload of text (which dramatically reduces visitor engagement);
-* support **reo learning** via glossary pop-ups with audio support;
-* **include multimedia content** (eg, stills, video, image zooming) as part of the interpretation around objects – ie, bring them to life;
-* support a more **active, discovery-based relationship** with the visitor (as observed in _Bug Lab_);
-* support **accessibility** – eg, ability to alter text size or hear an audio version (for sight impaired); and,
-* **reduce the costs of correcting or updating exhibition information** as no reprinting is required.
-
-With extra investment in the longer term, digital labels also have the potential to support saving, sharing and visitor contribution functionality, however more research is required to assess visitor appetite for this.
