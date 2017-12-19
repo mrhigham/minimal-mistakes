@@ -78,7 +78,7 @@ As always, ensure that young visitors and those in wheelchairs can easily reach 
 
 ## 7. User interface
 
-  *	**Natural mapping.** Make use of ['natural mapping'](/_pages/principles/layout/) to ensure an exact visual match between what is displayed on screen and the associated content in the exhibition space.
+  *	**Natural mapping.** Ensure a close visual match between what is displayed on screen and the associated content in the exhibition space (referred to as ['Natural mapping'](/_pages/principles/layout/)).
   
   *	**Consistent UI.** Place navigational icons and other key elements in consistent places across digital labels.
  
