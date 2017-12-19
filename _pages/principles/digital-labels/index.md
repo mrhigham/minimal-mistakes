@@ -5,7 +5,7 @@ excerpt: "Guidelines for creating digital labels, created for Natural History an
 
 ## What is a digital label?
 
-A digital label is an interactive touchscreen that exclusively offers interpretation for **objects on display** in the exhibition.
+**A digital label is an interactive touchscreen that exclusively offers interpretation for *objects on display* in the exhibition.**
 
 Previous examples include:
 
