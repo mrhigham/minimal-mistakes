@@ -1,0 +1,24 @@
+language: ruby
+rvm:
+- 2.3.3
+sudo: false
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+branches:
+  only:
+  - master
+install: bundle install
+script: JEKYLL_ENV=production bundle exec jekyll build
+deploy:
+  provider: s3
+  access_key_id:
+    secure: oeJVkbfqGhlhIz6HUvoxkYeorVX4vRj2j3dX6IcDxRTX5BWwS7X0ww8XA7MjutoHEAPjW+sHVScbbuz268uhCkVHsU88TbaogRrjo+uegN8xotsAJLDdTnYj1ukd1ZHMMJQ1c+7sAm21iynJCqj3xzopWsV+cFHRZTAq5kXUFoyQ+6Tb0d6dbsNpEkQz8hGMOzcK4wIJTpT/6q9bp6zf+JdboqNSGvhHYN5cswqlyZ1N3ekmhca399ir6pKCW1yora+9dXughM+kZcdTlizxUPQJfuIdV6/J3BgWRwGjPtsuwxiw9rKiLdv2ZOOFnQaktczYT6Yk2LbB/SMc8rXVuLI9tZCjCQgpsMD4LJCAMPJhoRRhsPs3O4YwBEw1bG4jyqlYfKHL/tuxw5Sr0KrzPbDiAFV0Bw+uVjBxURBIIPMhtsrXf8ZdKykIy4YLrwxgltzC1iQSfLErAGbaIIPwjnNo9uav8CCOes6nLlbgUsFmoFY2JebZCtokh/mJIj1CThlEoLC8HrxmwaUcvvFwCihSkOhpofNC6czx88oXltwegp/c8did9lIfMorti8lI/Ob9EcsfeLmBhcE/9DyzpyAZYoxQpsgXPPwqhOiSefXt+9dRpMm3y7HGekHzCCl8eKDpOREEJQbcj+6rhV7Ved892arr5WL8He8v9ANEQkE=
+  secret_access_key:
+    secure: NMfpaeJjr1ThVA607c8NGUfVCOL/ZvzYkfXG4Wmws0V9Ans8EwOFTtzVsO7YXwzvYuePyR8WqCeZibFkSRQQ/7NhsthVpPpgt2QZPcyN2K6XZXF4jmUIT+vNZxEbTJJjYZf/d8cYa3pIjfGyjrKK6rodEcLHBJ4fs4VZQoGzfG7ZeKhxE+gA12GOV8iub0mnJxQNWi7HJzpx4HLnURX7kH1GUyftkqpVA5PNvLd0BUaY/t9q5JWOpbxwzuZyZKvqE8QaAtH5PEsy/oJG2WVhHrYkgyxhedyXyt/EaWXGnCNx+zRqCFOv4ft5wuO1vSioXjNxunsyQMI2N9vuFklqHLlyvHBLgOBbS+z9rtaeHkkIwWUoP1mLtNdMWygNeXIkbVRlOQC2BtwQoj6VaWDqVwEJoVhMr4kFPG07ZLRy03KYtAh8rDylkeyUDrCOUsUZBwCpA17DYbuyX33XQVN0FEDBGyFgO4PRXp85a7HhvEQbQs6kMIlEfm77kKmMhyQ88E3md2pRlp3M4hCfY6qRJar4AiTGG8ALz7attFEOtvFgPZXtZiWltTjqesIs0Rmy9lTa62VBSiF9VE2ASMVJ9SLoKzy1DqpYQ/pH5uuo55zQN0QPfc6yCYcbmgKYxoaLQSkam4ZPBZTH/Ns58ZsnJIT4tGXUoqTr15gt+xZrX0M=
+  bucket: digital-language-system
+  local-dir: _site
+  skip_cleanup: true
+  on:
+    repo: te-papa/te-papa.github.io
+    branch: lc-add-travis-build-script
