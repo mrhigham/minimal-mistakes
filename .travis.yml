@@ -8,6 +8,7 @@ env:
 branches:
   only:
   - master
+  - lc-add-travis-build-script
 install: bundle install
 script: JEKYLL_ENV=production bundle exec jekyll build
 deploy:
