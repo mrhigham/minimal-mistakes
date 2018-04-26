@@ -13,8 +13,8 @@ name                     : "Museum of New Zealand Te Papa Tongarewa"
 description              : "Guidelines and principles for Te Papa's digital outputs."
 dev_mode                 : true
 url                      : ""
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : ""
+repository               : "te-papa/te-papa.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -90,10 +90,10 @@ analytics:
 
 # Site Author
 author:
-  name             : 
-  avatar           : 
-  bio              : 
-  location         : 
+  name             :
+  avatar           :
+  bio              :
+  location         :
   email            :
   uri              :
   bitbucket        :
