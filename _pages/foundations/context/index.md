@@ -14,7 +14,7 @@ What mode a visitor is in when they encounter an interactive screen might affect
 ‘Surfing’ for content is expected to work best when it is detached in some way from an exhibition. Threshold or intermediary spaces, such as entries & exits, a media lounge, the promenade or the cafes, create a different visitor mode which is expected to be more receptive to ‘surfing’ content.
 {: .notice--info}
 
-> Long-form / Browswing / Exploration / Self-driven
+> Long-form / Browsing / Exploration / Self-driven
 
 ### Serve
 
