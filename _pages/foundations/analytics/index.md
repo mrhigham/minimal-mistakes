@@ -21,7 +21,6 @@ More stringent documentation on analytics will be written as these are implement
 * Email sign ups
 * General error logs
 * Session length
-* Bounce rate
 
 ### Examples of what we could learn from these analytics:
 
