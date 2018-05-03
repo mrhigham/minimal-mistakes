@@ -17,5 +17,5 @@ excerpt: "Some general factors to consider when generating digital content for u
     * expected audience attracted to this content or exhibition, and
     * spatial positioning of the screen and how this could affect a visitor’s propensity to engage (see [Context](/_pages/foundations/context/)).
 * __Grab attention immediately.__ Content must makes grab visitor’s attention very early. Lead with the conclusion / most interesting point (front-load your content / inverted pyramid) if there is one.
-* __Watch it later.__ Consider hosting the content online and [referencing it from within the museum](/_pages/patterns/online-content/). This is likely to be particularly useful when there is a lot of related content that unlikley to be consumed at one time within the exhibition, or content that works particularly well outside of the specific context of the museum (eg, more of a thinkpiece).
+* __Watch it later.__ Consider hosting the content online and [referencing it from within the museum](/_pages/patterns/online-content/). This is likely to be particularly useful when there is a lot of related content that is unlikley to be consumed at one time within the exhibition, or content that works particularly well outside of the specific context of the museum (eg, more of a thinkpiece).
 
