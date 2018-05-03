@@ -3,7 +3,7 @@ title: "Analytics"
 excerpt: "Collecting data on the use of interactives is a requirement and will ensure we can make more confident and informed decisions in the future to improve our digital outputs."
 ---
 
-Page urls within the interactive should be Human Readable and describe the content of the page, so the analytics are easier to interpret. Eg. For a portrait you could display: artist-name-of-work-1971
+Page URLs within the application should be human readable and describe the content of the page, so the analytics are easier to interpret. E.g. For a portrait you could display: artist-name-of-work-1971
 
 More stringent documentation on analytics will be written as these are implemented, tested and revised in the near future. In the meantime, use the following as a guide of what data might be tracked and how it could be used.
 {: .notice--warning .m0-imp}
