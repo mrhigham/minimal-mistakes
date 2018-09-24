@@ -19,7 +19,7 @@ __[Design patterns for video](/_pages/patterns/video/)__
 ## Digital label
 
 * __Object-focused:__ A digital label refers to a screen used specifically as an `Extended Object Label` (or `Group Extended Object Label`) in the exhibition text hierarchy. Its purpose is to tell an in-depth story centred on an object in the wider context of the exhibition’s story. However, the way this story is told could through other media, not just text.
-* __Physical-digital relationship:__ Creating an obvious relationship between the physical object(s) and the digital content is essential. Keep in mind the principle of [natural mapping](/_pages/principles/layout#natural-mapping) when designing a menu for content selection.
+* __Physical-digital relationship:__ Creating an obvious relationship between the physical object(s) and the digital content is essential. Keep in mind the principle of [natural mapping](/_pages/principles/natural-mapping) when designing a menu for content selection.
 * __Physical environment:__ Consider the relationship between the object and the screen in the physical space and how to make the most of the dynamic between them:
   * Can the object be lit differently when the screen is focused on it? (Think of the Weapons interactive in _Gallipoli_ that lights various weapons in red while the screen shows a video of how that weapon damaged the body.)
   * Can the object be seen clearly from the position of the screen?
