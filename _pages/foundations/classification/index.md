@@ -23,6 +23,7 @@ __[Design patterns for video](/_pages/patterns/video/)__
 * __Physical environment:__ Consider the relationship between the object and the screen in the physical space and how to make the most of the dynamic between them:
   * Can the object be lit differently when the screen is focused on it? (Think of the Weapons interactive in _Gallipoli_ that lights various weapons in red while the screen shows a video of how that weapon damaged the body.)
   * Can the object be seen clearly from the position of the screen?
+  * Does the screen encourage ‘close looking’ and get close enough to the object to see the detail? 
   * Is it clear when looking only at the object that more information about it is available?
 
 __[Design patterns for digital labels](/_pages/patterns/digital-labels/)__
