@@ -41,13 +41,19 @@ Interactive elements should employ other design features to convey their interac
 [Online tools](https://webtoolkit.govt.nz/guidance/design-and-development/contrast-and-the-use-of-colour/#tools) can help determine the correct level of contrast required.
 {: .notice--info}
 
+## Colour meaning
+
+Ensure color is not used as the only means of conveying information, indicating an action, prompting a response, or distinguishing a visual element. An example would be a traffic light system commonly used to indicate a project status. This is to allow for limited colour vision and colour blindness.
+
 ## Subtitles
 
-English subtitles should be provided on all video content to ensure people who are deaf or hearing-impaired are able to access the audio content. These should be displayed by default to ensure no content is missed by this group. It is preferable to also supply reo Māori subtitles where possible.
+English subtitles should be provided on all video content to ensure people who are deaf or hearing-impaired are able to access the audio content. These should be displayed by default as 'ON' to ensure no content is missed by this group. 
+
+This has the additional benefit of enabling visitors to understand content that may be easily missed or misheard due to the noisy environment of the museum and differences in regional dialect. It is preferable to also supply reo Māori subtitles where possible.
 
 More on __[subtitles](/_pages/patterns/video#subtitles)__.
 
-More research is required to determine what the organisation-wide support for other languages should be.
+More research is required to determine what the organisation-wide support for other languages should be, including NZSL. Currently there is research underway to investigate the addition of NZSL to video content. 
 {: .notice--warning}
 
 
