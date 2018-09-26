@@ -15,9 +15,6 @@ The right research method can be determined after identifying factors like:
   - Prototype designs?
   - Identifying usability problems?  
 
-NOTE: Links to resources will be added soon.
-{: .notice--warning}
-
 | Method                       | Description                                                                                                | Best for                                                                                                                                                                                                           | Inputs                                                     | Outputs                                                           | Mode       |
 |------------------------------|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------|------------|
 | **Competitor review**        | Review competitor's sites or products against different criteria                                            | Understand and learn from the user experience of a competitor                                                                                                                                                                              | Criteria to review against                                                   | Recommendations for things to avoid and things to do              | Diverging  |
