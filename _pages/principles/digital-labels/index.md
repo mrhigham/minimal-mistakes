@@ -9,6 +9,7 @@ excerpt: "Guidelines for creating digital labels, created for Natural History an
 
 Previous examples include:
 
+* _Portraits wall_ taonga interactives
 * _Bug Lab_ specimen interactives
 * _Blood Earth Fire_ ‘Arrivals’ interactives
 
@@ -73,12 +74,12 @@ Indicative examples of the language toggle and gloss components used in digital 
 
 * **From label → object**: Consider the viewpoint of a visitor in front of the label. A visitor should have a clear line of sight from the label back to the displayed object.
 
-As always, ensure that young visitors and those in wheelchairs can easily reach the screens (see [Accesssibility](/_pages/foundations/accessibility/) for more information on accessible screen placement). 
+As always, ensure that young visitors and wheelchair users can easily reach the screens (see [Accesssibility](/_pages/foundations/accessibility/) for more information on accessible screen placement). 
 {: .notice--warning}
 
 ## 7. User interface
 
-  *	**Natural mapping.** Ensure a close visual match between what is displayed on screen and the associated content in the exhibition space (referred to as ['Natural mapping'](/_pages/principles/layout/)).
+  *	**Natural mapping.** Ensure a close visual match between what is displayed on screen and the associated content in the exhibition space (referred to as ['Natural mapping'](/_pages/principles/natural-mapping/)).
   
   *	**Consistent UI.** Place navigational icons and other key elements in consistent places across digital labels.
  
