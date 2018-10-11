@@ -25,7 +25,7 @@ deploy:
   local-dir: _site
   skip_cleanup: true
   on:
-    repo: te-papa/te-papa.github.io
+    repo: te-papa/te-papa-design-language-system
     branch: master
 notifications:
   slack:

@@ -14,7 +14,7 @@ description              : "Guidelines and principles for Te Papa's digital outp
 dev_mode                 : true
 url                      : ""
 baseurl                  : ""
-repository               : "te-papa/te-papa.github.io"
+repository               : "te-papa/te-papa-design-language-system"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
