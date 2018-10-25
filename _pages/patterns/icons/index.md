@@ -25,6 +25,10 @@ previous:
 |![Zoom in icon](/images/icons/icon-zoom-in.png)        |__Zoom in__    |<a download href="/images/icons/png/icon-zoom-in.png">PNG</a>         |<a download href="/images/icons/svg/icon-zoom-in.svg">SVG</a>    |
 |![Zoom out icon](/images/icons/icon-zoom-out.png)      |__Zoom out__   |<a download href="/images/icons/png/icon-zoom-out.png">PNG</a>        |<a download href="/images/icons/svg/icon-zoom-out.svg">SVG</a>   |
 |![Play all icon](/images/icons/icon-play-all.png)      |__Play all__   |<a download href="/images/icons/png/icon-play-all.png">PNG</a>        |<a download href="/images/icons/svg/icon-play-all.svg">SVG</a>   |
+|![Gallery icon](/images/icons/icon-gallery.png)      |__Gallery__   |<a download href="/images/icons/png/icon-gallery.png">PNG</a>        |<a download href="/images/icons/svg/icon-gallery.svg">SVG</a>   |
+|![Collapse icon](/images/icons/icon-collapse.png)      |__Collapse__   |<a download href="/images/icons/png/icon-collapse.png">PNG</a>        |<a download href="/images/icons/svg/icon-collapse.svg">SVG</a>   |
+|![Expand icon](/images/icons/icon-expand.png)      |__Expand__   |<a download href="/images/icons/png/icon-expand.png">PNG</a>        |<a download href="/images/icons/svg/icon-expand.svg">SVG</a>   |
+|![Sign Language icon](/images/icons/icon-signLanguage.png)      |__Sign Language__   |<a download href="/images/icons/png/icon-signLanguage.png">PNG</a>        |<a download href="/images/icons/svg/icon-signLanguage.svg">SVG</a>   |
 {: .icon-table}
 
 ## Spot icon
